@@ -128,6 +128,14 @@ WHERE NOT EXISTS (SELECT 1 FROM dbo.Customer t WHERE t.CustomerID = s.CustomerID
 - [ ] Trigger error 8672 and fix it.
 - [ ] Write a `CATCH` block that rolls back safely and re-raises.
 - [ ] Explain doomed transactions.
+
+<!-- related-deep-dives -->
+
+### 🔗 Related deep dives
+- [Syntax Translation Cookbook (upsert recipes)](<Dialects_and_Portability/03_Syntax_Translation_Cookbook.md>)
+- [Transactions and Concurrency Across Engines](<Dialects_and_Portability/06_Transactions_and_Concurrency_Across_Engines.md>)
+- [Procedural Code: T-SQL vs PL/SQL vs PL/pgSQL](<Dialects_and_Portability/07_Procedural_Code_T-SQL_vs_PLSQL_vs_PLpgSQL.md>)
+- [Series hub: T-SQL, ANSI SQL and Dialects](<Dialects_and_Portability/_index.md>)
 <!-- explainer:end -->
 
 ## Implementations (tools)

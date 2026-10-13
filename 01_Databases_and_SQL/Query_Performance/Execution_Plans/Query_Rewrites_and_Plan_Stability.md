@@ -166,12 +166,12 @@ SELECT OrderID, CustomerID FROM dbo.Orders WHERE Status = @Status;
 
 ## Related concepts
 
+- [Index Tuning in Practice](<../Indexing/Index_Tuning_in_Practice/_index.md>) *(Indexing)*
+- [Filtered Indexes and Plan Cache](<../../../TOOLS/SQL_Server/T-SQL/Filtered_Indexes_and_Plan_Cache.md>) *(T-SQL)*
 - [EXISTS Semi-joins and Predicate Placement](<../../SQL_Language/Joins_and_Subqueries/EXISTS_Semi-joins_and_Predicate_Placement.md>) *(Joins and Subqueries)*
 - [MySQL Optimizer Behavior](<../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
 - [Leftmost Prefix Rule](<../../SQL_Language/SQL_Fundamentals/Leftmost_Prefix_Rule.md>) *(SQL Fundamentals)*
 - [Index Access Paths](<../../Database_Internals/DBMS_Concepts/Index_Access_Paths.md>) *(DBMS Concepts)*
-- [Index Tuning in Practice](<../Indexing/Index_Tuning_in_Practice/_index.md>) *(Indexing)*
-- [Filtered Indexes and Plan Cache](<../../../TOOLS/SQL_Server/T-SQL/Filtered_Indexes_and_Plan_Cache.md>) *(T-SQL)*
 
 ## References
 

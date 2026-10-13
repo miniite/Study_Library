@@ -153,10 +153,10 @@ Compare outputs: the last two return the same rows. The correlated form is logic
 
 ## Related concepts
 
-- [Join Types](<../SQL_Fundamentals/Join_Types.md>) *(SQL Fundamentals)*
-- [WHERE vs HAVING](<../../Database_Internals/DBMS_Concepts/WHERE_vs_HAVING.md>) *(DBMS Concepts)*
-- [CROSS APPLY and OUTER APPLY](<../../../TOOLS/SQL_Server/T-SQL/CROSS_APPLY_and_OUTER_APPLY.md>) *(T-SQL)*
 - [PostgreSQL Query Basics](<../../../TOOLS/PostgreSQL/PostgreSQL_Platform/PostgreSQL_Query_Basics.md>) *(PostgreSQL Platform)*
+- [Join Types](<../SQL_Fundamentals/Join_Types.md>) *(SQL Fundamentals)*
+- [CROSS APPLY and OUTER APPLY](<../../../TOOLS/SQL_Server/T-SQL/CROSS_APPLY_and_OUTER_APPLY.md>) *(T-SQL)*
+- [WHERE vs HAVING](<../../Database_Internals/DBMS_Concepts/WHERE_vs_HAVING.md>) *(DBMS Concepts)*
 
 ## References
 

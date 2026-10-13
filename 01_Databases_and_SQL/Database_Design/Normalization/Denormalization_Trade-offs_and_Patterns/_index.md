@@ -165,12 +165,12 @@ Reconcile counters with truth: `SELECT p.post_id FROM post p WHERE p.comment_cou
 
 ## Related concepts
 
-- [Aggregate Fact Tables](<../../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Aggregate_Fact_Tables.md>) *(Dimensional Modeling)*
-- [Late Arriving Dimensions](<../../../Database_Internals/DBMS_Concepts/Late_Arriving_Dimensions.md>) *(DBMS Concepts)*
-- [Special Dimension Types](<../../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Special_Dimension_Types.md>) *(Dimensional Modeling)*
 - [Modeling Relationships and Schemas](<../../Schema_Design/Modeling_Relationships_and_Schemas.md>) *(Schema Design)*
-- [Index Tuning in Practice](<../../../Query_Performance/Indexing/Index_Tuning_in_Practice/_index.md>) *(Indexing)*
-- [Large Values and TOAST](<../../../SQL_Language/SQL_Fundamentals/Large_Values_and_TOAST.md>) *(SQL Fundamentals)*
+- [Data Vault](<../../../../02_Data_Engineering/Modeling_and_Warehousing/Modeling_Methodologies/Data_Vault.md>) *(Modeling Methodologies)*
+- [Migrations with Read Your Writes](<../../../../04_Data_Architecture_and_Strategy/Platform_Strategy/Schema_Evolution/Migrations_with_Read_Your_Writes.md>) *(Schema Evolution)*
+- [Index Strategy and Governance at Scale](<../../../Query_Performance/Indexing/Index_Tuning_in_Practice/Index_Strategy_and_Governance_at_Scale.md>) *(Indexing)*
+- [Maintaining Denormalized Views](<../../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/Maintaining_Denormalized_Views.md>) *(Low Level Design)*
+- [Schema Evolution in Lakehouse Tables](<../../../SQL_Language/SQL_Fundamentals/Schema_Evolution_in_Lakehouse_Tables.md>) *(SQL Fundamentals)*
 
 ## References
 

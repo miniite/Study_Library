@@ -194,9 +194,9 @@ SELECT * FROM users ORDER BY created_at DESC LIMIT 10;      -- TOP (10) in SQL S
 - [Counting with Joins](<../Aggregation/Counting_with_Joins.md>) *(Aggregation)*
 - [Basic Query Practice](<../../../TOOLS/MySQL/MySQL_Platform/Basic_Query_Practice.md>) *(MySQL Platform)*
 - [First Last per Group and Running Totals](<../Window_Functions/First_Last_per_Group_and_Running_Totals.md>) *(Window Functions)*
+- [UDF Performance](<../SQL_Functions/UDF_Performance.md>) *(SQL Functions)*
 - [Classic SQL Query Problems](<../../Database_Internals/DBMS_Concepts/Classic_SQL_Query_Problems.md>) *(DBMS Concepts)*
-- [Window Functions Overview](<../SQL_Functions/Window_Functions_Overview.md>) *(SQL Functions)*
-- [Time-based Windows](<../Window_Functions/Time-based_Windows.md>) *(Window Functions)*
+- [MySQL Optimizer Behavior](<../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
 
 ## References
 

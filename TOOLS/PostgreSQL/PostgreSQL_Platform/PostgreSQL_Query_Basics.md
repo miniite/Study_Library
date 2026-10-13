@@ -141,10 +141,10 @@ Notes: `round(4.5)` on `numeric` gives 5 (half away from zero) while on `double 
 
 ## Related concepts
 
-- [WHERE vs HAVING](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/WHERE_vs_HAVING.md>) *(DBMS Concepts)*
-- [Scalar Subqueries](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Scalar_Subqueries.md>) *(SQL Fundamentals)*
-- [GROUP BY vs PARTITION BY](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/GROUP_BY_vs_PARTITION_BY.md>) *(SQL Fundamentals)*
 - [Joins vs Subqueries and Join Types](<../../../01_Databases_and_SQL/SQL_Language/Joins_and_Subqueries/Joins_vs_Subqueries_and_Join_Types.md>) *(Joins and Subqueries)*
 - [CROSS APPLY and OUTER APPLY](<../../SQL_Server/T-SQL/CROSS_APPLY_and_OUTER_APPLY.md>) *(T-SQL)*
 - [Join Types](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Join_Types.md>) *(SQL Fundamentals)*
+- [WHERE vs HAVING](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/WHERE_vs_HAVING.md>) *(DBMS Concepts)*
+- [Scalar Subqueries](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Scalar_Subqueries.md>) *(SQL Fundamentals)*
+- [GROUP BY vs PARTITION BY](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/GROUP_BY_vs_PARTITION_BY.md>) *(SQL Fundamentals)*
 

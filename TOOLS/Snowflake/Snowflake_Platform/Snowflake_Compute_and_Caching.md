@@ -130,10 +130,10 @@ Snowflake queries are executed in parallel across the warehouse's nodes; each no
 
 ## Related concepts
 
-- [Star Schemas and Dimension Keys](<../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Star_Schemas_and_Dimension_Keys.md>) *(Dimensional Modeling)*
-- [Micro-partitions vs Manual Partitions](<../../../02_Data_Engineering/Storage_and_Lakehouse/Partitioning_and_Bucketing/Micro-partitions_vs_Manual_Partitions.md>) *(Partitioning and Bucketing)*
 - [Data Warehouse Fundamentals](<../../../02_Data_Engineering/Modeling_and_Warehousing/Data_Warehousing/Data_Warehouse_Fundamentals.md>) *(Data Warehousing)*
+- [Star Schemas and Dimension Keys](<../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Star_Schemas_and_Dimension_Keys.md>) *(Dimensional Modeling)*
 - [Rollups vs On-demand Queries](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Rollups_vs_On-demand_Queries.md>) *(Data Architecture)*
+- [Micro-partitions vs Manual Partitions](<../../../02_Data_Engineering/Storage_and_Lakehouse/Partitioning_and_Bucketing/Micro-partitions_vs_Manual_Partitions.md>) *(Partitioning and Bucketing)*
 
 ## References
 

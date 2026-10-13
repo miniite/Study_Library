@@ -160,11 +160,11 @@ UPDATE Sales.vOpenOrders SET Status = 'Closed' WHERE OrderID = 1;  -- fails: row
 ## Related concepts
 
 - [Materialized View Refresh and Maintenance](<../Materialized_Views/Materialized_View_Refresh_and_Maintenance.md>) *(Materialized Views)*
+- [Views and Materialized Views](<../../Database_Internals/DBMS_Concepts/Views_and_Materialized_Views.md>) *(DBMS Concepts)*
 - [MySQL Optimizer Behavior](<../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
 - [Query Rewrites and Plan Stability](<../../Query_Performance/Execution_Plans/Query_Rewrites_and_Plan_Stability.md>) *(Execution Plans)*
-- [Views and Materialized Views](<../../Database_Internals/DBMS_Concepts/Views_and_Materialized_Views.md>) *(DBMS Concepts)*
-- [Schemas and Databases](<../../../TOOLS/MySQL/MySQL_Platform/Schemas_and_Databases.md>) *(MySQL Platform)*
 - [Scalar Subqueries](<../../SQL_Language/SQL_Fundamentals/Scalar_Subqueries.md>) *(SQL Fundamentals)*
+- [Validating Join Cardinality](<../../SQL_Language/SQL_Fundamentals/Validating_Join_Cardinality.md>) *(SQL Fundamentals)*
 
 ## References
 

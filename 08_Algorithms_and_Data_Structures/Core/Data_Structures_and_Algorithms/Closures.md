@@ -23,10 +23,10 @@ tools: []
 
 ## Related concepts
 
-- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
 - [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
-- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
 - [String Immutability and Performance](<../../../TOOLS/Python/Python_Language/String_Immutability_and_Performance.md>) *(Python Language)*
 - [Mutability](<../../../TOOLS/Python/Python_Language/Mutability.md>) *(Python Language)*
 - [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
+- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
+- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
 

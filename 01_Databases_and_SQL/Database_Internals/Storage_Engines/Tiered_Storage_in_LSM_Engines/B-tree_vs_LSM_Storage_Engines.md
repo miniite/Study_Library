@@ -172,11 +172,11 @@ Reading these: a B-tree with `avg_page_space_used` of 60% and high fragmentation
 
 ## Related concepts
 
-- [B-tree and BRIN Indexes](<../../../Query_Performance/Indexing/B-tree_and_BRIN_Indexes.md>) *(Indexing)*
-- [Stream Join Data Structures](<../../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/Stream_Join_Data_Structures.md>) *(Data Structures and Algorithms)*
 - [Choosing a Database for the Workload](<../../../Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
 - [Rollups vs On-demand Queries](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Rollups_vs_On-demand_Queries.md>) *(Data Architecture)*
 - [Distributed Cache Design](<../../../../07_Distributed_Systems_and_Design/System_Design/High_Level_Design/Distributed_Cache_Design.md>) *(High Level Design)*
+- [B-tree and BRIN Indexes](<../../../Query_Performance/Indexing/B-tree_and_BRIN_Indexes.md>) *(Indexing)*
+- [Stream Join Data Structures](<../../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/Stream_Join_Data_Structures.md>) *(Data Structures and Algorithms)*
 - [Database Cost Optimization](<../../../Database_Strategy/Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
 
 ## References

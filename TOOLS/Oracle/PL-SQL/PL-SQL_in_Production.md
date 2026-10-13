@@ -223,12 +223,12 @@ Calendar strings (`FREQ=…;BYTIME`) handle time zones when `start_date` carries
 
 ## Related concepts
 
+- [Dynamic SQL](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Dynamic_SQL.md>) *(DBMS Concepts)*
+- [Stored Procedure Performance and Design](<../../../01_Databases_and_SQL/Database_Objects/Stored_Procedures/Stored_Procedure_Performance_and_Design.md>) *(Stored Procedures)*
+- [PL/SQL Overview](<../Oracle_Platform/PLSQL_Overview.md>) *(Oracle Platform)*
+- [Bulk Collect and FORALL](<../../../01_Databases_and_SQL/Database_Objects/Cursors/Bulk_Collect_and_FORALL.md>) *(Cursors)*
 - [Large Batch Updates](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Large_Batch_Updates.md>) *(SQL Fundamentals)*
 - [MERGE Pitfalls and Error Handling](<../../SQL_Server/T-SQL/MERGE_Pitfalls_and_Error_Handling.md>) *(T-SQL)*
-- [SKIP LOCKED Job Queues](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/SKIP_LOCKED_Job_Queues.md>) *(SQL Fundamentals)*
-- [Dynamic SQL](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Dynamic_SQL.md>) *(DBMS Concepts)*
-- [Bulk Collect and FORALL](<../../../01_Databases_and_SQL/Database_Objects/Cursors/Bulk_Collect_and_FORALL.md>) *(Cursors)*
-- [Stored Procedure Performance and Design](<../../../01_Databases_and_SQL/Database_Objects/Stored_Procedures/Stored_Procedure_Performance_and_Design.md>) *(Stored Procedures)*
 
 ## References
 

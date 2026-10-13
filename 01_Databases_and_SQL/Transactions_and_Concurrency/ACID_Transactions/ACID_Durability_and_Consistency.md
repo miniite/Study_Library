@@ -147,9 +147,9 @@ Define ACID, walk the WAL commit path and crash recovery, mention delayed durabi
 ## Related concepts
 
 - [Distributed Transactions and 2PC](<../../Database_Internals/DBMS_Concepts/Distributed_Transactions_and_2PC.md>) *(DBMS Concepts)*
+- [LSM Write Path WAL and Compaction](<../../Database_Internals/Storage_Engines/Tiered_Storage_in_LSM_Engines/LSM_Write_Path_WAL_and_Compaction.md>) *(Storage Engines)*
 - [Transaction Control and Prepared Transactions](<../../SQL_Language/SQL_Command_Types/Transaction_Control_and_Prepared_Transactions.md>) *(SQL Command Types)*
 - [Row Locks Two-phase Locking and Lock Footprint](<../Locking/Row_Locks_Two-phase_Locking_and_Lock_Footprint.md>) *(Locking)*
-- [LSM Write Path WAL and Compaction](<../../Database_Internals/Storage_Engines/Tiered_Storage_in_LSM_Engines/LSM_Write_Path_WAL_and_Compaction.md>) *(Storage Engines)*
 
 ## References
 

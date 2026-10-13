@@ -161,12 +161,12 @@ Spark broadcasts automatically below `spark.sql.autoBroadcastJoinThreshold` (10 
 
 ## Related concepts
 
-- [Pandas vs Polars vs PySpark](<../../Python/Python_Language/Pandas_vs_Polars_vs_PySpark.md>) *(Python Language)*
-- [Spark DataFrames and Lazy Evaluation](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Spark_DataFrames_and_Lazy_Evaluation.md>) *(Pipeline Orchestration)*
-- [DataFrames and Datasets](<../../Apache_Spark/Spark_Core/DataFrames_and_Datasets.md>) *(Spark Core)*
 - [Spark Skew and Spill](<../../Apache_Spark/Spark_Optimization/Spark_Skew_and_Spill.md>) *(Spark Optimization)*
 - [Bucketed Joins in Spark](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Bucketed_Joins_in_Spark.md>) *(Pipeline Orchestration)*
 - [Shuffle Partition Tuning](<../../../03_Big_Data_and_Streaming/Distributed_Processing/Big_Data_Processing/Shuffle_Partition_Tuning.md>) *(Big Data Processing)*
+- [Pandas vs Polars vs PySpark](<../../Python/Python_Language/Pandas_vs_Polars_vs_PySpark.md>) *(Python Language)*
+- [Spark DataFrames and Lazy Evaluation](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Spark_DataFrames_and_Lazy_Evaluation.md>) *(Pipeline Orchestration)*
+- [DataFrames and Datasets](<../../Apache_Spark/Spark_Core/DataFrames_and_Datasets.md>) *(Spark Core)*
 
 ## References
 

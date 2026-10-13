@@ -135,6 +135,13 @@ Reading the plan: look for **Nested Loops → inner side → Index Seek** with *
 - [ ] Explain why `CROSS APPLY` and `INNER JOIN` differ when the right side is correlated.
 - [ ] Find *Outer References* and execution counts in an actual plan.
 - [ ] Use `CROSS APPLY (VALUES …)` to unpivot three columns into rows.
+
+<!-- related-deep-dives -->
+
+### 🔗 Related deep dives
+- [ANSI Core vs T-SQL Extensions (APPLY vs LATERAL)](<Dialects_and_Portability/02_ANSI_Core_vs_T-SQL_Extensions.md>)
+- [Syntax Translation Cookbook (top-N per group)](<Dialects_and_Portability/03_Syntax_Translation_Cookbook.md>)
+- [Series hub: T-SQL, ANSI SQL and Dialects](<Dialects_and_Portability/_index.md>)
 <!-- explainer:end -->
 
 ## Implementations (tools)

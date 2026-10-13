@@ -178,10 +178,10 @@ To catch hard deletes without CDC, add a periodic **key reconciliation**: pull t
 
 ## Related concepts
 
-- [Real-time OLAP Serving Layer](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Real-time_OLAP_Serving_Layer.md>) *(Data Architecture)*
 - [Data Warehouse Fundamentals](<../../Data_Warehousing/Data_Warehouse_Fundamentals.md>) *(Data Warehousing)*
-- [CDC Fundamentals and Ordering](<../../../Pipelines_and_Integration/Change_Data_Capture/CDC_Fundamentals_and_Ordering.md>) *(Change Data Capture)*
 - [Handling Source Changes and Spikes](<../../../Pipelines_and_Integration/ETL_ELT/Handling_Source_Changes_and_Spikes.md>) *(ETL ELT)*
+- [CDC Fundamentals and Ordering](<../../../Pipelines_and_Integration/Change_Data_Capture/CDC_Fundamentals_and_Ordering.md>) *(Change Data Capture)*
+- [Real-time OLAP Serving Layer](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Real-time_OLAP_Serving_Layer.md>) *(Data Architecture)*
 
 ## References
 

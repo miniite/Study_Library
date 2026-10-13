@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Sorting Linked Lists](<../Complexity_Analysis/Sorting_Linked_Lists.md>) *(Complexity Analysis)*
-- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
-- [Clickstream Counting Pipeline](<../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Clickstream_Counting_Pipeline/_index.md>) *(System Design Core)*
+- [Window Function Fundamentals and Performance](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/Window_Function_Fundamentals_and_Performance.md>) *(Window Functions)*
+- [ROW_NUMBER RANK and DENSE_RANK](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/ROW_NUMBER_RANK_and_DENSE_RANK.md>) *(Window Functions)*
+- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
 - [B-tree and BRIN Indexes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/B-tree_and_BRIN_Indexes.md>) *(Indexing)*
-- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
 - [Recursive CTEs and Materialization](<../../../01_Databases_and_SQL/SQL_Language/CTEs_and_Recursive_Queries/Recursive_CTEs_and_Materialization.md>) *(CTEs and Recursive Queries)*
+- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
 

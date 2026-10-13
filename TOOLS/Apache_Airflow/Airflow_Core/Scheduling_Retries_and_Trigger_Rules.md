@@ -186,9 +186,9 @@ Reading it: the run that fires at 02:00 on 3 March covers `[2 March 02:00, 3 Mar
 
 ## Related concepts
 
+- [Handling Non-critical Task Failures](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Handling_Non-critical_Task_Failures.md>) *(Pipeline Orchestration)*
 - [Airflow DAGs and Backfills](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Airflow_DAGs_and_Backfills.md>) *(Pipeline Orchestration)*
 - [Idempotent Airflow Tasks](<../../Python/Python_Language/Idempotent_Airflow_Tasks.md>) *(Python Language)*
-- [Handling Non-critical Task Failures](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Handling_Non-critical_Task_Failures.md>) *(Pipeline Orchestration)*
 
 ## References
 

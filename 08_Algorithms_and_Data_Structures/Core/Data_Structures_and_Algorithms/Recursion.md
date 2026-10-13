@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Validating Join Cardinality](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Validating_Join_Cardinality.md>) *(SQL Fundamentals)*
-- [Analytical SQL for ML Features](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Analytical_SQL_for_ML_Features.md>) *(SQL Fundamentals)*
-- [Threaded Comments Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Threaded_Comments_Design.md>) *(Low Level Design)*
+- [B-tree and BRIN Indexes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/B-tree_and_BRIN_Indexes.md>) *(Indexing)*
+- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
+- [Time-space Trade-offs](<../Complexity_Analysis/Time-space_Trade-offs.md>) *(Complexity Analysis)*
+- [Storing Money](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Storing_Money.md>) *(SQL Fundamentals)*
 - [String Immutability and Performance](<../../../TOOLS/Python/Python_Language/String_Immutability_and_Performance.md>) *(Python Language)*
-- [Cleaning Text and Numeric Fields](<../../../11_AI_and_ML/ML_Foundations/Data_Preprocessing/Cleaning_Text_and_Numeric_Fields.md>) *(Data Preprocessing)*
-- [String Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/String_Functions.md>) *(SQL Functions)*
+- [Numeric Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/Numeric_Functions.md>) *(SQL Functions)*
 

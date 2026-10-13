@@ -164,12 +164,12 @@ State: a small control table `etl_state(table_name, watermark, run_id, status)` 
 
 ## Related concepts
 
-- [Handling Source Changes and Spikes](<../ETL_ELT/Handling_Source_Changes_and_Spikes.md>) *(ETL ELT)*
-- [Pipeline Design Patterns](<../Pipeline_Design/Pipeline_Design_Patterns.md>) *(Pipeline Design)*
-- [Incremental Rollups](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Incremental_Rollups.md>) *(SQL Fundamentals)*
 - [Exactly Once Spark Writes](<../Pipeline_Orchestration/Exactly_Once_Spark_Writes.md>) *(Pipeline Orchestration)*
 - [Optimistic Concurrency and Clocks](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Distributed_Joins_in_MPP_Systems/Optimistic_Concurrency_and_Clocks.md>) *(Distributed Systems Core)*
 - [Idempotent Ingestion](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Idempotent_Ingestion/_index.md>) *(Distributed Systems Core)*
+- [Handling Source Changes and Spikes](<../ETL_ELT/Handling_Source_Changes_and_Spikes.md>) *(ETL ELT)*
+- [Pipeline Design Patterns](<../Pipeline_Design/Pipeline_Design_Patterns.md>) *(Pipeline Design)*
+- [Incremental Rollups](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Incremental_Rollups.md>) *(SQL Fundamentals)*
 
 ## References
 

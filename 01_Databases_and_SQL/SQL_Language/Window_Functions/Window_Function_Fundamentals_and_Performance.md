@@ -134,12 +134,12 @@ All five rows come back. `company_total` is 950 on every row (empty OVER = one b
 
 ## Related concepts
 
-- [Window Functions Overview](<../SQL_Functions/Window_Functions_Overview.md>) *(SQL Functions)*
 - [UDF Performance](<../SQL_Functions/UDF_Performance.md>) *(SQL Functions)*
-- [GROUP BY vs PARTITION BY](<../SQL_Fundamentals/GROUP_BY_vs_PARTITION_BY.md>) *(SQL Fundamentals)*
-- [Partitioning and Data Skipping in Lakes](<../../Query_Performance/Indexing/Partitioning_and_Data_Skipping_in_Lakes.md>) *(Indexing)*
 - [Filtered Indexes and Plan Cache](<../../../TOOLS/SQL_Server/T-SQL/Filtered_Indexes_and_Plan_Cache.md>) *(T-SQL)*
+- [Window Functions Overview](<../SQL_Functions/Window_Functions_Overview.md>) *(SQL Functions)*
+- [GROUP BY vs PARTITION BY](<../SQL_Fundamentals/GROUP_BY_vs_PARTITION_BY.md>) *(SQL Fundamentals)*
 - [T-SQL Basics](<../../../TOOLS/SQL_Server/T-SQL/T-SQL_Basics.md>) *(T-SQL)*
+- [Partitioning and Data Skipping in Lakes](<../../Query_Performance/Indexing/Partitioning_and_Data_Skipping_in_Lakes.md>) *(Indexing)*
 
 ## References
 

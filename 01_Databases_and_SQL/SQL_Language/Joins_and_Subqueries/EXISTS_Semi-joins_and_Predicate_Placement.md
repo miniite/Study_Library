@@ -159,8 +159,8 @@ Reading the plan: the `EXISTS` query typically shows *Nested Loops (Left Semi Jo
 ## Related concepts
 
 - [Query Rewrites and Plan Stability](<../../Query_Performance/Execution_Plans/Query_Rewrites_and_Plan_Stability.md>) *(Execution Plans)*
-- [MySQL Optimizer Behavior](<../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
 - [Join Algorithm Selection](<../../Query_Performance/Indexing/Join_Algorithm_Selection.md>) *(Indexing)*
+- [MySQL Optimizer Behavior](<../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
 
 ## References
 

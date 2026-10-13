@@ -185,11 +185,11 @@ GROUP BY GROUPING SETS ((empid, custid, YEAR(orderdate)),
 
 ## Related concepts
 
-- [Basic Query Practice](<../../../TOOLS/MySQL/MySQL_Platform/Basic_Query_Practice.md>) *(MySQL Platform)*
-- [Scalar Subqueries](<../../SQL_Language/SQL_Fundamentals/Scalar_Subqueries.md>) *(SQL Fundamentals)*
-- [Aggregation Query Practice](<../../SQL_Language/SQL_Fundamentals/Aggregation_Query_Practice.md>) *(SQL Fundamentals)*
 - [Advanced Aggregation](<../../SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
 - [Gaps and Islands](<../../SQL_Language/SQL_Fundamentals/Gaps_and_Islands.md>) *(SQL Fundamentals)*
+- [Aggregation Query Practice](<../../SQL_Language/SQL_Fundamentals/Aggregation_Query_Practice.md>) *(SQL Fundamentals)*
+- [Basic Query Practice](<../../../TOOLS/MySQL/MySQL_Platform/Basic_Query_Practice.md>) *(MySQL Platform)*
+- [Scalar Subqueries](<../../SQL_Language/SQL_Fundamentals/Scalar_Subqueries.md>) *(SQL Fundamentals)*
 
 ## References
 

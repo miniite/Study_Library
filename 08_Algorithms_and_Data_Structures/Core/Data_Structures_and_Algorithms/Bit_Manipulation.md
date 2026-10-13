@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
-- [Recursive CTEs and Materialization](<../../../01_Databases_and_SQL/SQL_Language/CTEs_and_Recursive_Queries/Recursive_CTEs_and_Materialization.md>) *(CTEs and Recursive Queries)*
+- [Storing Money](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Storing_Money.md>) *(SQL Fundamentals)*
+- [String Immutability and Performance](<../../../TOOLS/Python/Python_Language/String_Immutability_and_Performance.md>) *(Python Language)*
+- [Numeric Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/Numeric_Functions.md>) *(SQL Functions)*
 - [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
-- [Advanced Aggregation](<../../../01_Databases_and_SQL/SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
-- [First Last per Group and Running Totals](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/First_Last_per_Group_and_Running_Totals.md>) *(Window Functions)*
-- [ROW_NUMBER RANK and DENSE_RANK](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/ROW_NUMBER_RANK_and_DENSE_RANK.md>) *(Window Functions)*
+- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
+- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
 

@@ -172,12 +172,12 @@ Logical versus physical model: the logical star (entities, attributes, keys) is 
 
 ## Related concepts
 
-- [Data Vault](<../Modeling_Methodologies/Data_Vault.md>) *(Modeling Methodologies)*
 - [Relationship Modeling](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Relationship_Modeling.md>) *(DBMS Concepts)*
 - [Distribution Keys](<../Data_Warehousing/Distribution_Keys.md>) *(Data Warehousing)*
+- [Denormalization Trade-offs and Patterns](<../../../01_Databases_and_SQL/Database_Design/Normalization/Denormalization_Trade-offs_and_Patterns/_index.md>) *(Normalization)*
+- [Data Vault](<../Modeling_Methodologies/Data_Vault.md>) *(Modeling Methodologies)*
 - [Distinguishing Drift from Pipeline Breaks](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Distinguishing_Drift_from_Pipeline_Breaks.md>) *(Data Architecture)*
 - [Event Schema Evolution](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Mixed_Version_Fleets/Event_Schema_Evolution.md>) *(Distributed Systems Core)*
-- [Denormalization Trade-offs and Patterns](<../../../01_Databases_and_SQL/Database_Design/Normalization/Denormalization_Trade-offs_and_Patterns/_index.md>) *(Normalization)*
 
 ## References
 

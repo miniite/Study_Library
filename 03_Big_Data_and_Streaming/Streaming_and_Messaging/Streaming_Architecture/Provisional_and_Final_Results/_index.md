@@ -43,12 +43,12 @@ tools: ["Apache_Kafka", "Apache_Flink", "AWS"]
 
 ## Related concepts
 
-- [Adaptive Thresholds](<../../../../11_AI_and_ML/Applied_ML/Anomaly_Detection/Adaptive_Thresholds.md>) *(Anomaly Detection)*
-- [Streaming Correctness and Drift](<../../../Distributed_Processing/Batch_vs_Stream/Streaming_Correctness_and_Drift.md>) *(Batch vs Stream)*
-- [Distribution Change Alerts](<../../../../02_Data_Engineering/Data_Quality/Data_Observability/Distribution_Change_Alerts.md>) *(Data Observability)*
 - [Unified Batch and Streaming Semantics](<../../../Distributed_Processing/Batch_vs_Stream/Batch_and_Stream_Reconciliation/Unified_Batch_and_Streaming_Semantics.md>) *(Batch vs Stream)*
 - [Batch and Stream Reconciliation](<../../../Distributed_Processing/Batch_vs_Stream/Batch_and_Stream_Reconciliation/_index.md>) *(Batch vs Stream)*
 - [Unified Batch and Streaming Platforms](<../../../Distributed_Processing/Batch_vs_Stream/Batch_and_Stream_Reconciliation/Unified_Batch_and_Streaming_Platforms.md>) *(Batch vs Stream)*
+- [Adaptive Thresholds](<../../../../11_AI_and_ML/Applied_ML/Anomaly_Detection/Adaptive_Thresholds.md>) *(Anomaly Detection)*
+- [Streaming Correctness and Drift](<../../../Distributed_Processing/Batch_vs_Stream/Streaming_Correctness_and_Drift.md>) *(Batch vs Stream)*
+- [Distribution Change Alerts](<../../../../02_Data_Engineering/Data_Quality/Data_Observability/Distribution_Change_Alerts.md>) *(Data Observability)*
 
 ## References
 

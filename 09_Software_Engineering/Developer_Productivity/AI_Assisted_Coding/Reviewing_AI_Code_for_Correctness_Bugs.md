@@ -31,10 +31,10 @@ tools: ["AI_Coding_Assistants"]
 
 ## Related concepts
 
-- [Token Budgeting for RAG](<../../../TOOLS/Python/Python_Language/Token_Budgeting_for_RAG.md>) *(Python Language)*
-- [Chunk Size and Retrieval Quality](<../../../11_AI_and_ML/LLM_Applications/Retrieval_and_RAG/Chunk_Size_and_Retrieval_Quality.md>) *(Retrieval and RAG)*
-- [Arrays and Embedding Lookup](<../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/Arrays_and_Embedding_Lookup.md>) *(Data Structures and Algorithms)*
 - [Drift-triggered Retraining](<../../../TOOLS/Python/Python_Language/Python_Tail_Latency/Drift-triggered_Retraining.md>) *(Python Language)*
 - [Missing Values and Encoding](<../../../11_AI_and_ML/ML_Foundations/Data_Preprocessing/Missing_Values_and_Encoding.md>) *(Data Preprocessing)*
 - [Scaling with Contaminated Data](<../../../11_AI_and_ML/ML_Foundations/Data_Preprocessing/Scaling_with_Contaminated_Data.md>) *(Data Preprocessing)*
+- [Token Budgeting for RAG](<../../../TOOLS/Python/Python_Language/Token_Budgeting_for_RAG.md>) *(Python Language)*
+- [Chunk Size and Retrieval Quality](<../../../11_AI_and_ML/LLM_Applications/Retrieval_and_RAG/Chunk_Size_and_Retrieval_Quality.md>) *(Retrieval and RAG)*
+- [Arrays and Embedding Lookup](<../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/Arrays_and_Embedding_Lookup.md>) *(Data Structures and Algorithms)*
 

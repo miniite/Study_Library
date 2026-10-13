@@ -153,10 +153,10 @@ What to look at: the Grid view shows one column per run; each run passes its own
 
 ## Related concepts
 
-- [Airflow Architecture](<../../../TOOLS/Apache_Airflow/Airflow_Core/Airflow_Architecture.md>) *(Airflow Core)*
-- [Scheduling Retries and Trigger Rules](<../../../TOOLS/Apache_Airflow/Airflow_Core/Scheduling_Retries_and_Trigger_Rules.md>) *(Airflow Core)*
 - [DAG Design and Dependencies](<../../../TOOLS/Apache_Airflow/Airflow_Core/DAG_Design_and_Dependencies.md>) *(Airflow Core)*
 - [Idempotent Airflow Tasks](<../../../TOOLS/Python/Python_Language/Idempotent_Airflow_Tasks.md>) *(Python Language)*
+- [Scheduling Retries and Trigger Rules](<../../../TOOLS/Apache_Airflow/Airflow_Core/Scheduling_Retries_and_Trigger_Rules.md>) *(Airflow Core)*
+- [Airflow Architecture](<../../../TOOLS/Apache_Airflow/Airflow_Core/Airflow_Architecture.md>) *(Airflow Core)*
 
 ## References
 

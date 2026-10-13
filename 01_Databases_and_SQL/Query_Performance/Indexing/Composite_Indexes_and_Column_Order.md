@@ -155,9 +155,9 @@ Query A and B show a Seek in the plan; C and D show a Scan, with the predicate l
 ## Related concepts
 
 - [Leftmost Prefix Rule](<../../SQL_Language/SQL_Fundamentals/Leftmost_Prefix_Rule.md>) *(SQL Fundamentals)*
-- [Index Access Paths](<../../Database_Internals/DBMS_Concepts/Index_Access_Paths.md>) *(DBMS Concepts)*
 - [MySQL Optimizer Behavior](<../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
 - [Query Rewrites and Plan Stability](<../Execution_Plans/Query_Rewrites_and_Plan_Stability.md>) *(Execution Plans)*
+- [Index Access Paths](<../../Database_Internals/DBMS_Concepts/Index_Access_Paths.md>) *(DBMS Concepts)*
 
 ## References
 

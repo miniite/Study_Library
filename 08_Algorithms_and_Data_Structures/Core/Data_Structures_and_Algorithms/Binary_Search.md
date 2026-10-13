@@ -27,12 +27,12 @@ tools: []
 
 ## Related concepts
 
+- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
 - [Advanced Aggregation](<../../../01_Databases_and_SQL/SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
-- [First Last per Group and Running Totals](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/First_Last_per_Group_and_Running_Totals.md>) *(Window Functions)*
-- [ROW_NUMBER RANK and DENSE_RANK](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/ROW_NUMBER_RANK_and_DENSE_RANK.md>) *(Window Functions)*
-- [Stack-based Complexity](<../Complexity_Analysis/Stack-based_Complexity.md>) *(Complexity Analysis)*
+- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
+- [Storing Money](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Storing_Money.md>) *(SQL Fundamentals)*
 - [String Immutability and Performance](<../../../TOOLS/Python/Python_Language/String_Immutability_and_Performance.md>) *(Python Language)*
-- [String Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/String_Functions.md>) *(SQL Functions)*
+- [Numeric Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/Numeric_Functions.md>) *(SQL Functions)*
 
 ## References
 

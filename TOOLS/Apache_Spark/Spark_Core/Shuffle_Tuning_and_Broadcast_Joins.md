@@ -153,9 +153,9 @@ fact_s.join(dim_s, ["store_id", "salt"])
 ## Related concepts
 
 - [Shuffle Partition Tuning](<../../../03_Big_Data_and_Streaming/Distributed_Processing/Big_Data_Processing/Shuffle_Partition_Tuning.md>) *(Big Data Processing)*
-- [Spark Skew and Spill](<../Spark_Optimization/Spark_Skew_and_Spill.md>) *(Spark Optimization)*
 - [Databricks Query Performance](<../../Databricks/Databricks_Platform/Databricks_Query_Performance.md>) *(Databricks Platform)*
 - [Spark DataFrames and Lazy Evaluation](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Spark_DataFrames_and_Lazy_Evaluation.md>) *(Pipeline Orchestration)*
+- [Spark Skew and Spill](<../Spark_Optimization/Spark_Skew_and_Spill.md>) *(Spark Optimization)*
 
 ## References
 

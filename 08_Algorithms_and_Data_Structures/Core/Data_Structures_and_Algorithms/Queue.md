@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
-- [Lock Granularity Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Compensating_Transactions/Lock_Granularity_Design.md>) *(Low Level Design)*
-- [Classic LLD Problems](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Classic_LLD_Problems.md>) *(Low Level Design)*
 - [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
 - [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
 - [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
+- [NumPy Indexing](<../../../TOOLS/Python/Python_Language/NumPy_Indexing.md>) *(Python Language)*
+- [Rate Limiter Storage](<../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Rate_Limiter_Storage/_index.md>) *(System Design Core)*
+- [State Pattern](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/State_Pattern.md>) *(Low Level Design)*
 

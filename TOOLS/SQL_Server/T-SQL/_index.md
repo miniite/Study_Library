@@ -21,6 +21,7 @@ type: "topic"
 | 3 | [Filtered Indexes and Plan Cache](<Filtered_Indexes_and_Plan_Cache.md>) | L4 |  |
 | 4 | [Temp Tables vs Table Variables](<Temp_Tables_vs_Table_Variables.md>) | L4 |  |
 | 5 | [MERGE Pitfalls and Error Handling](<MERGE_Pitfalls_and_Error_Handling.md>) | L4 |  |
+| 6 | [**Series:** T-SQL, ANSI SQL and Dialects (11 notes)](<Dialects_and_Portability/_index.md>) | L4–L5 | standard vs dialect vs engine · ANSI core vs extensions · translation cookbook · semantics · errors · concurrency · procedural · Microsoft family · ADF · migration · lab |
 
 ## Further reading (references)
 

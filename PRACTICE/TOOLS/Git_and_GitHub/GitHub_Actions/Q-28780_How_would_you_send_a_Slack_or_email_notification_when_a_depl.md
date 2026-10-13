@@ -73,7 +73,7 @@ jobs:
       if: ${{ failure() }}
       uses: roboflow/slack@v2
       with:
-        webhook-url: https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>  # Replace with actual URL
+        webhook-url: https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>  # Replace with actual URL
 
     - name: Send Email Notification on Failure
       if: ${{ failure() }}
@@ -134,7 +134,7 @@ jobs:
       if: ${{ failure() }}
       uses: roboflow/slack@v2
       with:
-        webhook-url: https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>  # Replace with actual URL
+        webhook-url: https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>  # Replace with actual URL
 
     - name: Send Email Notification on Failure
       if: ${{ failure() }}

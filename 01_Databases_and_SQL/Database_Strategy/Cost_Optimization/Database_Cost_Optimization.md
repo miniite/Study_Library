@@ -186,10 +186,10 @@ Large tables that are mostly historical are candidates for partitioning with arc
 
 ## Related concepts
 
-- [Database Vendor and Platform Choices](<../Vendor_and_Tooling/Database_Vendor_and_Platform_Choices.md>) *(Vendor and Tooling)*
-- [Small Files and Compaction](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Small_Files_and_Compaction.md>) *(Data Architecture)*
 - [Governing Data Platform Costs](<../../../06_Cloud_Computing/Cloud_Cost/FinOps/Serverless_Cost_Visibility/Governing_Data_Platform_Costs.md>) *(FinOps)*
 - [Commitments and Spot Capacity](<../../../06_Cloud_Computing/Cloud_Cost/FinOps/Serverless_Cost_Visibility/Commitments_and_Spot_Capacity.md>) *(FinOps)*
+- [Database Vendor and Platform Choices](<../Vendor_and_Tooling/Database_Vendor_and_Platform_Choices.md>) *(Vendor and Tooling)*
+- [Small Files and Compaction](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Small_Files_and_Compaction.md>) *(Data Architecture)*
 - [Rollups vs On-demand Queries](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Rollups_vs_On-demand_Queries.md>) *(Data Architecture)*
 - [Choosing a Database for the Workload](<../Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
 

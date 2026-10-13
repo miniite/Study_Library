@@ -61,7 +61,7 @@ def send_slack_alert(webhook_url, message):
         print(f"Error occurred: {e}")
 
 # Example usage
-webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>"
+webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>"
 message = "Alert: A critical issue has been detected!"
 send_slack_alert(webhook_url, message)
 
@@ -126,7 +126,7 @@ def send_slack_alert(webhook_url, message):
         print(f"Error occurred: {e}")
 
 # Example usage
-webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>"
+webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>"
 message = "Alert: A critical issue has been detected!"
 send_slack_alert(webhook_url, message)
 ```
@@ -135,7 +135,7 @@ send_slack_alert(webhook_url, message)
 
 ```
 
-webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>" message = "Alert: A critical issue has been detected!" send_slack_alert(webhook_url, message)
+webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>" message = "Alert: A critical issue has been detected!" send_slack_alert(webhook_url, message)
 
 CODE
 Copy

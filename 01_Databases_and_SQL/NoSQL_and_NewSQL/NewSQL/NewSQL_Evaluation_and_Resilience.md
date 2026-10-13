@@ -149,11 +149,11 @@ Rule: the body must be idempotent from the client's view (no side effects like e
 
 ## Related concepts
 
-- [Choosing a Database for the Workload](<../../Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
-- [Quality Attribute Trade-off Scenarios](<../../../07_Distributed_Systems_and_Design/Software_Architecture/Trade_off_Analysis/Quality_Attribute_Trade-off_Scenarios.md>) *(Trade off Analysis)*
 - [Zero Downtime Sharding Migrations](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Distributed_Joins_in_MPP_Systems/Zero_Downtime_Sharding_Migrations.md>) *(Distributed Systems Core)*
 - [HA Failover Design](<../../Database_Operations/High_Availability/HA_Failover_Design.md>) *(High Availability)*
 - [Primary-replica Databases](<../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Clickstream_Counting_Pipeline/Primary-replica_Databases.md>) *(System Design Core)*
+- [Choosing a Database for the Workload](<../../Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
+- [Quality Attribute Trade-off Scenarios](<../../../07_Distributed_Systems_and_Design/Software_Architecture/Trade_off_Analysis/Quality_Attribute_Trade-off_Scenarios.md>) *(Trade off Analysis)*
 
 ## References
 

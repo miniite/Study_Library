@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Stack-based Complexity](<../Complexity_Analysis/Stack-based_Complexity.md>) *(Complexity Analysis)*
-- [String Immutability and Performance](<../../../TOOLS/Python/Python_Language/String_Immutability_and_Performance.md>) *(Python Language)*
-- [String Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/String_Functions.md>) *(SQL Functions)*
 - [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
+- [Advanced Aggregation](<../../../01_Databases_and_SQL/SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
+- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
+- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
 - [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
 - [Classic LLD Problems](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Classic_LLD_Problems.md>) *(Low Level Design)*
 

@@ -33,9 +33,9 @@ tools: ["dbt", "Git_and_GitHub", "Python"]
 
 ## Related concepts
 
-- [dbt Models and Runs](<../../../TOOLS/dbt/dbt_Core/dbt_Models_and_Runs.md>) *(dbt Core)*
 - [Automated Dependency Updates](<../../../TOOLS/Git_and_GitHub/Git_Core/Automated_Dependency_Updates.md>) *(Git Core)*
-- [Isolating CI Environments](<../../../TOOLS/Git_and_GitHub/Git_Core/Isolating_CI_Environments.md>) *(Git Core)*
 - [Securing ML Delivery](<../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Safe_Config_Rollouts/Securing_ML_Delivery.md>) *(Cloud Fundamentals)*
 - [Distinguishing Drift from Pipeline Breaks](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Distinguishing_Drift_from_Pipeline_Breaks.md>) *(Data Architecture)*
+- [dbt Models and Runs](<../../../TOOLS/dbt/dbt_Core/dbt_Models_and_Runs.md>) *(dbt Core)*
+- [Isolating CI Environments](<../../../TOOLS/Git_and_GitHub/Git_Core/Isolating_CI_Environments.md>) *(Git Core)*
 

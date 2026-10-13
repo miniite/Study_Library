@@ -171,10 +171,10 @@ SELECT ... FROM staging ORDER BY sale_date;
 
 - [Columnar Formats in the Lake](<../Lakehouse/Columnar_Formats_in_the_Lake.md>) *(Lakehouse)*
 - [Min Max Statistics and Data Skipping](<../../../01_Databases_and_SQL/Query_Performance/Indexing/Min_Max_Statistics_and_Data_Skipping.md>) *(Indexing)*
-- [Partitioning and Data Skipping in Lakes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/Partitioning_and_Data_Skipping_in_Lakes.md>) *(Indexing)*
 - [Pandas vs Polars vs PySpark](<../../../TOOLS/Python/Python_Language/Pandas_vs_Polars_vs_PySpark.md>) *(Python Language)*
-- [Large Values and TOAST](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Large_Values_and_TOAST.md>) *(SQL Fundamentals)*
 - [Lakehouse Fundamentals](<../Lakehouse/Lakehouse_Fundamentals.md>) *(Lakehouse)*
+- [Migrations with Read Your Writes](<../../../04_Data_Architecture_and_Strategy/Platform_Strategy/Schema_Evolution/Migrations_with_Read_Your_Writes.md>) *(Schema Evolution)*
+- [Partitioning and Data Skipping in Lakes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/Partitioning_and_Data_Skipping_in_Lakes.md>) *(Indexing)*
 
 ## References
 

@@ -32,12 +32,12 @@ tools: ["AWS", "Google_Cloud"]
 
 ## Related concepts
 
-- [Platform vs Product Ownership](<../../../Cloud_Architecture/Architecture_Strategy/Platform_vs_Product_Ownership.md>) *(Architecture Strategy)*
-- [Commitments and Spot Capacity](<../../../Cloud_Cost/FinOps/Serverless_Cost_Visibility/Commitments_and_Spot_Capacity.md>) *(FinOps)*
-- [Hub-and-spoke Cross-cloud Networking](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Multi_Cloud_Data/Hub-and-spoke_Cross-cloud_Networking.md>) *(Multi Cloud Data)*
 - [Reproducible Training Data Versions](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Reproducible_Training_Data_Versions.md>) *(Data Architecture)*
 - [Central vs Domain Feature Modeling](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Central_vs_Domain_Feature_Modeling.md>) *(Data Architecture)*
 - [ML Model Delivery Pipelines](<../../../../10_DevOps_and_Platform/Delivery/CI_CD/ML_Model_Delivery_Pipelines.md>) *(CI CD)*
+- [Platform vs Product Ownership](<../../../Cloud_Architecture/Architecture_Strategy/Platform_vs_Product_Ownership.md>) *(Architecture Strategy)*
+- [Commitments and Spot Capacity](<../../../Cloud_Cost/FinOps/Serverless_Cost_Visibility/Commitments_and_Spot_Capacity.md>) *(FinOps)*
+- [Hub-and-spoke Cross-cloud Networking](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Multi_Cloud_Data/Hub-and-spoke_Cross-cloud_Networking.md>) *(Multi Cloud Data)*
 
 ## References
 

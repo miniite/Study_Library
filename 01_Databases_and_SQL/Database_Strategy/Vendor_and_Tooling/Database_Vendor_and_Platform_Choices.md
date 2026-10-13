@@ -193,8 +193,8 @@ How to read it: each step is independently deployable and reversible, so the DBA
 ## Related concepts
 
 - [Choosing a Database for the Workload](<../Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
-- [Database Cost Optimization](<../Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
 - [Platform-level Data Quality](<../../../04_Data_Architecture_and_Strategy/Platform_Strategy/Data_Platform_Strategy/Platform-level_Data_Quality.md>) *(Data Platform Strategy)*
+- [Database Cost Optimization](<../Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
 
 ## References
 

@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
-- [Nested Loop Complexity](<../Complexity_Analysis/Nested_Loop_Complexity.md>) *(Complexity Analysis)*
-- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
 - [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
-- [Lock Granularity Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Compensating_Transactions/Lock_Granularity_Design.md>) *(Low Level Design)*
-- [Classic LLD Problems](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Classic_LLD_Problems.md>) *(Low Level Design)*
+- [Advanced Aggregation](<../../../01_Databases_and_SQL/SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
+- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
+- [Timezones and Timestamps](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Timezones_and_Timestamps.md>) *(SQL Fundamentals)*
+- [Comparing Time Windows](<../../../TOOLS/Python/Python_Language/Comparing_Time_Windows.md>) *(Python Language)*
+- [Date Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/Date_Functions.md>) *(SQL Functions)*
 

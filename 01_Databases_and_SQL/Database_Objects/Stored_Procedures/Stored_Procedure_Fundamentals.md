@@ -218,9 +218,9 @@ Walk-through of the transfer: the debit has a `Balance >= @Amount` predicate and
 ## Related concepts
 
 - [Dynamic SQL](<../../Database_Internals/DBMS_Concepts/Dynamic_SQL.md>) *(DBMS Concepts)*
-- [Functions in SQL vs PL/SQL](<../../../TOOLS/Oracle/PL-SQL/Functions_in_SQL_vs_PLSQL.md>) *(PL-SQL)*
 - [MERGE and Upserts](<../../../TOOLS/SQL_Server/SQL_Server_Platform/MERGE_and_Upserts.md>) *(SQL Server Platform)*
 - [Stored Procedure Performance and Design](<Stored_Procedure_Performance_and_Design.md>) *(Stored Procedures)*
+- [Functions in SQL vs PL/SQL](<../../../TOOLS/Oracle/PL-SQL/Functions_in_SQL_vs_PLSQL.md>) *(PL-SQL)*
 
 ## References
 

@@ -31,9 +31,9 @@ tools: ["AI_Coding_Assistants"]
 
 ## Related concepts
 
-- [Offline Evaluation Harnesses](<../../../TOOLS/Python/Python_Language/Safe_User-authored_Configuration/Offline_Evaluation_Harnesses.md>) *(Python Language)*
 - [Synthetic Data Governance](<../../../11_AI_and_ML/Responsible_AI/AI_Governance/Synthetic_Data_Governance.md>) *(AI Governance)*
-- [Versioning Experiments with Git](<../../../TOOLS/Git_and_GitHub/Git_Core/Versioning_Experiments_with_Git.md>) *(Git Core)*
 - [Sensitive Data Controls for LLMs](<../../../11_AI_and_ML/Responsible_AI/AI_Governance/Sensitive_Data_Controls_for_LLMs.md>) *(AI Governance)*
 - [Fine-tuned Models as Sensitive Artifacts](<../../../11_AI_and_ML/Responsible_AI/Privacy_and_PII/Fine-tuned_Models_as_Sensitive_Artifacts.md>) *(Privacy and PII)*
+- [Offline Evaluation Harnesses](<../../../TOOLS/Python/Python_Language/Safe_User-authored_Configuration/Offline_Evaluation_Harnesses.md>) *(Python Language)*
+- [Versioning Experiments with Git](<../../../TOOLS/Git_and_GitHub/Git_Core/Versioning_Experiments_with_Git.md>) *(Git Core)*
 

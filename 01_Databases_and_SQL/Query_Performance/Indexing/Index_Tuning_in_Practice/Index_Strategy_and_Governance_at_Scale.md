@@ -152,12 +152,12 @@ Reading it: `tenant_id` leading means all tenants share one index but each query
 
 ## Related concepts
 
-- [Audit and Compliance Platforms](<../../../../07_Distributed_Systems_and_Design/System_Design/High_Level_Design/Audit_and_Compliance_Platforms.md>) *(High Level Design)*
-- [Database Cost Optimization](<../../../Database_Strategy/Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
-- [Query Rewrites and Plan Stability](<../../Execution_Plans/Query_Rewrites_and_Plan_Stability.md>) *(Execution Plans)*
 - [Rollups vs On-demand Queries](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Rollups_vs_On-demand_Queries.md>) *(Data Architecture)*
 - [Replica Staleness](<../../../SQL_Language/SQL_Fundamentals/Replica_Staleness.md>) *(SQL Fundamentals)*
 - [Advanced Aggregation](<../../../SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
+- [Audit and Compliance Platforms](<../../../../07_Distributed_Systems_and_Design/System_Design/High_Level_Design/Audit_and_Compliance_Platforms.md>) *(High Level Design)*
+- [Index Tuning in Practice](<_index.md>) *(Indexing)*
+- [Database Cost Optimization](<../../../Database_Strategy/Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
 
 ## References
 

@@ -43,7 +43,7 @@ Setting Up Slack Webhooks:
 
 In the Datadog UI, go to Settings > Integrations.
 Locate the Slack integration and create a new webhook for the specific Slack channel you want to route alerts to.
-Note down the webhook URL (e.g., https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>).
+Note down the webhook URL (e.g., https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>).
 
 Setting Up PagerDuty Webhooks:
 
@@ -75,7 +75,7 @@ What metrics should be monitored for the health of your integrations with Slack 
 
 ```
 Webhook	URL	Purpose
-Slack	https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>	Send alerts to specific Slack channel
+Slack	https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>	Send alerts to specific Slack channel
 PagerDuty	https://events.pagerduty.com/v2/enqueue	Trigger incident in PagerDuty on-call team
 ```
 
@@ -86,7 +86,7 @@ Example Python script to send an alert to a Slack channel using Datadog webhook
 
 import requests
 
-webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>" message = { "text": "Alert: CPU usage is high on server ABC.", "channel": "#alerts", }
+webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>" message = { "text": "Alert: CPU usage is high on server ABC.", "channel": "#alerts", }
 
 response = requests.post(webhook_url, json=message) print(response.status_code)
 
@@ -150,7 +150,7 @@ Response:
 
 ```json
 {
-  "webhook_url_slack": "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>",
+  "webhook_url_slack": "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>",
   "webhook_url_pagerduty": "https://events.pagerduty.com/v2/enqueue"
 }
 ```

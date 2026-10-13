@@ -182,11 +182,11 @@ Clarify the entities and access patterns. Walk the mapping rules. Discuss enum v
 ## Related concepts
 
 - [Relationship Modeling](<../../Database_Internals/DBMS_Concepts/Relationship_Modeling.md>) *(DBMS Concepts)*
+- [Denormalization Trade-offs and Patterns](<../Normalization/Denormalization_Trade-offs_and_Patterns/_index.md>) *(Normalization)*
+- [Activity Timeline Schema](<../../../TOOLS/MySQL/MySQL_Platform/Activity_Timeline_Schema.md>) *(MySQL Platform)*
 - [Validating Join Cardinality](<../../SQL_Language/SQL_Fundamentals/Validating_Join_Cardinality.md>) *(SQL Fundamentals)*
 - [Many-to-many Modeling](<../../../TOOLS/PostgreSQL/PostgreSQL_Platform/Many-to-many_Modeling.md>) *(PostgreSQL Platform)*
 - [Data Vault](<../../../02_Data_Engineering/Modeling_and_Warehousing/Modeling_Methodologies/Data_Vault.md>) *(Modeling Methodologies)*
-- [Activity Timeline Schema](<../../../TOOLS/MySQL/MySQL_Platform/Activity_Timeline_Schema.md>) *(MySQL Platform)*
-- [Denormalization Trade-offs and Patterns](<../Normalization/Denormalization_Trade-offs_and_Patterns/_index.md>) *(Normalization)*
 
 ## References
 

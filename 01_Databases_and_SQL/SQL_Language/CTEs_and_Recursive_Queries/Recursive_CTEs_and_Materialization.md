@@ -155,8 +155,8 @@ How to read it: level 0 is the root; each loop finds employees whose manager is 
 - [Recursive CTEs](<../SQL_Fundamentals/Recursive_CTEs.md>) *(SQL Fundamentals)*
 - [Materialized CTEs](<../../../TOOLS/PostgreSQL/PostgreSQL_Platform/Materialized_CTEs.md>) *(PostgreSQL Platform)*
 - [MySQL Optimizer Behavior](<../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
-- [Query Rewrites and Plan Stability](<../../Query_Performance/Execution_Plans/Query_Rewrites_and_Plan_Stability.md>) *(Execution Plans)*
 - [Recursion and DP Judgment](<../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/Recursion_and_DP_Judgment.md>) *(Data Structures and Algorithms)*
+- [Query Rewrites and Plan Stability](<../../Query_Performance/Execution_Plans/Query_Rewrites_and_Plan_Stability.md>) *(Execution Plans)*
 
 ## References
 

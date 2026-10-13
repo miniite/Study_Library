@@ -33,7 +33,7 @@ tools: ["Docker", "PostgreSQL"]
 ## Related concepts
 
 - [Automated Dependency Updates](<../../../TOOLS/Git_and_GitHub/Git_Core/Automated_Dependency_Updates.md>) *(Git Core)*
+- [Isolating CI Environments](<../../../TOOLS/Git_and_GitHub/Git_Core/Isolating_CI_Environments.md>) *(Git Core)*
 - [Securing ML Delivery](<../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Safe_Config_Rollouts/Securing_ML_Delivery.md>) *(Cloud Fundamentals)*
 - [Monorepo CI Optimization](<../../../TOOLS/Git_and_GitHub/Git_Core/Monorepo_CI_Optimization.md>) *(Git Core)*
-- [Isolating CI Environments](<../../../TOOLS/Git_and_GitHub/Git_Core/Isolating_CI_Environments.md>) *(Git Core)*
 

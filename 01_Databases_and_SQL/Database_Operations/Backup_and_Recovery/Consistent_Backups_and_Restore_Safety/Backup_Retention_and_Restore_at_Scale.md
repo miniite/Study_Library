@@ -165,12 +165,12 @@ A fleet example: 4,000 instances with inconsistent policies. Quarter 1: inventor
 
 ## Related concepts
 
-- [Secrets and Key Management](<../../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Identity_and_Access_Foundations/Secrets_and_Key_Management.md>) *(Cloud Fundamentals)*
-- [Region Failure Resilience](<../../../../06_Cloud_Computing/Cloud_Architecture/Architecture_Strategy/Region_Failure_Resilience.md>) *(Architecture Strategy)*
-- [Org-wide Lineage and PII Tracking](<../../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Read-through_and_Write-behind_Caching/Org-wide_Lineage_and_PII_Tracking.md>) *(System Design Core)*
 - [HA Failover Design](<../../High_Availability/HA_Failover_Design.md>) *(High Availability)*
+- [Region Failure Resilience](<../../../../06_Cloud_Computing/Cloud_Architecture/Architecture_Strategy/Region_Failure_Resilience.md>) *(Architecture Strategy)*
 - [Replication Topologies and Lag](<../../Replication/Failback_After_Failover/Replication_Topologies_and_Lag.md>) *(Replication)*
 - [Sync vs Async Replication](<../../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Mixed_Version_Fleets/Sync_vs_Async_Replication.md>) *(Distributed Systems Core)*
+- [Azure Messaging and Reliability](<../../../../TOOLS/Azure/Azure_Platform/Azure_Functions_and_Cosmos_DB_Tuning/Azure_Messaging_and_Reliability.md>) *(Azure Platform)*
+- [Secrets and Key Management](<../../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Identity_and_Access_Foundations/Secrets_and_Key_Management.md>) *(Cloud Fundamentals)*
 
 ## References
 

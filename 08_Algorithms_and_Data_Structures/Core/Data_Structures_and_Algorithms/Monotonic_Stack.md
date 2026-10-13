@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
-- [Mutability](<../../../TOOLS/Python/Python_Language/Mutability.md>) *(Python Language)*
+- [B-tree and BRIN Indexes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/B-tree_and_BRIN_Indexes.md>) *(Indexing)*
+- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
 - [Time-space Trade-offs](<../Complexity_Analysis/Time-space_Trade-offs.md>) *(Complexity Analysis)*
-- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
 - [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
+- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
 - [Additive and Allocated Measures](<../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Additive_and_Allocated_Measures.md>) *(Dimensional Modeling)*
 

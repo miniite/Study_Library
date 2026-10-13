@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Explainability and Data Access Trade-offs](<../../../11_AI_and_ML/Responsible_AI/AI_Governance/Explainability_and_Data_Access_Trade-offs.md>) *(AI Governance)*
-- [Cost and Reliability Correlation](<../../../06_Cloud_Computing/Cloud_Cost/FinOps/Serverless_Cost_Visibility/Cost_and_Reliability_Correlation.md>) *(FinOps)*
-- [Streaming for AIOps](<../../../03_Big_Data_and_Streaming/Streaming_and_Messaging/Streaming_Architecture/Provisional_and_Final_Results/Streaming_for_AIOps.md>) *(Streaming Architecture)*
 - [Org-wide Lineage and PII Tracking](<../../System_Design/System_Design_Core/Read-through_and_Write-behind_Caching/Org-wide_Lineage_and_PII_Tracking.md>) *(System Design Core)*
 - [Data Vault](<../../../02_Data_Engineering/Modeling_and_Warehousing/Modeling_Methodologies/Data_Vault.md>) *(Modeling Methodologies)*
 - [Late and Out-of-order Data Strategy](<../../../04_Data_Architecture_and_Strategy/Platform_Strategy/Data_Platform_Strategy/Late_and_Out-of-order_Data_Strategy.md>) *(Data Platform Strategy)*
+- [Explainability and Data Access Trade-offs](<../../../11_AI_and_ML/Responsible_AI/AI_Governance/Explainability_and_Data_Access_Trade-offs.md>) *(AI Governance)*
+- [Cost and Reliability Correlation](<../../../06_Cloud_Computing/Cloud_Cost/FinOps/Serverless_Cost_Visibility/Cost_and_Reliability_Correlation.md>) *(FinOps)*
+- [Streaming for AIOps](<../../../03_Big_Data_and_Streaming/Streaming_and_Messaging/Streaming_Architecture/Provisional_and_Final_Results/Streaming_for_AIOps.md>) *(Streaming Architecture)*
 

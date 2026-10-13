@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
+- [B-tree and BRIN Indexes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/B-tree_and_BRIN_Indexes.md>) *(Indexing)*
+- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
+- [Time-space Trade-offs](<../Complexity_Analysis/Time-space_Trade-offs.md>) *(Complexity Analysis)*
+- [Recursive CTEs and Materialization](<../../../01_Databases_and_SQL/SQL_Language/CTEs_and_Recursive_Queries/Recursive_CTEs_and_Materialization.md>) *(CTEs and Recursive Queries)*
+- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
 - [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
-- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
-- [Additive and Allocated Measures](<../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Additive_and_Allocated_Measures.md>) *(Dimensional Modeling)*
-- [String Immutability and Performance](<../../../TOOLS/Python/Python_Language/String_Immutability_and_Performance.md>) *(Python Language)*
-- [String Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/String_Functions.md>) *(SQL Functions)*
-- [Stack-based Complexity](<../Complexity_Analysis/Stack-based_Complexity.md>) *(Complexity Analysis)*
 

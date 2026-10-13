@@ -194,12 +194,12 @@ Trigger vs materialized view for summary freshness: a trigger updates a summary 
 
 ## Related concepts
 
-- [PL-SQL in Production](<../../../TOOLS/Oracle/PL-SQL/PL-SQL_in_Production.md>) *(PL-SQL)*
-- [SKIP LOCKED Job Queues](<../../SQL_Language/SQL_Fundamentals/SKIP_LOCKED_Job_Queues.md>) *(SQL Fundamentals)*
 - [Trigger Types](<../../../TOOLS/Oracle/PL-SQL/Trigger_Types.md>) *(PL-SQL)*
 - [Dynamic SQL](<../../Database_Internals/DBMS_Concepts/Dynamic_SQL.md>) *(DBMS Concepts)*
 - [Lock Granularity](<../../Database_Internals/DBMS_Concepts/Lock_Granularity.md>) *(DBMS Concepts)*
-- [Upserts](<../../SQL_Language/SQL_Command_Types/Upserts.md>) *(SQL Command Types)*
+- [Database Access Control and Auditing](<../../Database_Operations/Security_and_Access/Column-level_Access/Database_Access_Control_and_Auditing.md>) *(Security and Access)*
+- [Stored Procedure Performance and Design](<../Stored_Procedures/Stored_Procedure_Performance_and_Design.md>) *(Stored Procedures)*
+- [PL-SQL in Production](<../../../TOOLS/Oracle/PL-SQL/PL-SQL_in_Production.md>) *(PL-SQL)*
 
 ## References
 

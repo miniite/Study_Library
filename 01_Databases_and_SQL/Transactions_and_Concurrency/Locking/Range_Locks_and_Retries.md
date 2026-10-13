@@ -189,10 +189,10 @@ IF @done = 0 THROW 50001, 'Retries exhausted', 1;
 
 ## Related concepts
 
-- [Phantoms and Double Booking](<../Isolation_Levels/Phantoms_and_Double_Booking.md>) *(Isolation Levels)*
 - [Isolation Levels in Transactions](<../ACID_Transactions/Isolation_Levels_in_Transactions.md>) *(ACID Transactions)*
-- [Isolation Anomalies](<../../SQL_Language/SQL_Fundamentals/Isolation_Anomalies.md>) *(SQL Fundamentals)*
+- [Phantoms and Double Booking](<../Isolation_Levels/Phantoms_and_Double_Booking.md>) *(Isolation Levels)*
 - [Setting Isolation Levels](<../Isolation_Levels/Setting_Isolation_Levels/_index.md>) *(Isolation Levels)*
+- [Isolation Anomalies](<../../SQL_Language/SQL_Fundamentals/Isolation_Anomalies.md>) *(SQL Fundamentals)*
 
 ## References
 

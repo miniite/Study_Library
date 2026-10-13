@@ -169,12 +169,12 @@ A useful sanity test when classifying a request: ask "how many rows, how many co
 
 ## Related concepts
 
-- [Data Warehouse Fundamentals](<../Data_Warehousing/Data_Warehouse_Fundamentals.md>) *(Data Warehousing)*
 - [OLTP vs Star Schema Performance](<../Dimensional_Modeling/OLTP_vs_Star_Schema_Performance.md>) *(Dimensional Modeling)*
-- [Databases and Schemas](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Databases_and_Schemas.md>) *(DBMS Concepts)*
-- [Warehouse as System of Record](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Warehouse_as_System_of_Record.md>) *(Data Architecture)*
 - [Real-time OLAP Serving Layer](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Real-time_OLAP_Serving_Layer.md>) *(Data Architecture)*
 - [Choosing a Database for the Workload](<../../../01_Databases_and_SQL/Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
+- [Data Warehouse Fundamentals](<../Data_Warehousing/Data_Warehouse_Fundamentals.md>) *(Data Warehousing)*
+- [Databases and Schemas](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Databases_and_Schemas.md>) *(DBMS Concepts)*
+- [Warehouse as System of Record](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Warehouse_as_System_of_Record.md>) *(Data Architecture)*
 
 ## References
 

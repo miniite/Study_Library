@@ -60,7 +60,7 @@ PYTHON
 def send_alert(message):
     # Example using Slack API
     import requests
-    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>"
+    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>"
     payload = {"text": message}
     response = requests.post(webhook_url, json=payload)
     if response.status_code != 200:
@@ -95,7 +95,7 @@ Copy
 ```python
 def send_alert(message):
     import requests
-    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>"
+    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>"
     payload = {"text": message}
     response = requests.post(webhook_url, json=payload)
     if response.status_code != 200:

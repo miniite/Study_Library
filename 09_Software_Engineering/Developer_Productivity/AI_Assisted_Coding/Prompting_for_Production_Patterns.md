@@ -34,7 +34,7 @@ tools: ["AI_Coding_Assistants"]
 - [Streaming LLM Responses](<../../../TOOLS/Python/Python_Language/Streaming_LLM_Responses.md>) *(Python Language)*
 - [Token Budgeting for RAG](<../../../TOOLS/Python/Python_Language/Token_Budgeting_for_RAG.md>) *(Python Language)*
 - [Offline Evaluation Harnesses](<../../../TOOLS/Python/Python_Language/Safe_User-authored_Configuration/Offline_Evaluation_Harnesses.md>) *(Python Language)*
-- [Compensating Transactions](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Compensating_Transactions/_index.md>) *(Low Level Design)*
-- [Exactly Once Dedup Structures](<../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/Exactly_Once_Dedup_Structures.md>) *(Data Structures and Algorithms)*
-- [Idempotent Ingestion](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Idempotent_Ingestion/_index.md>) *(Distributed Systems Core)*
+- [Load Shedding Responses](<../../../07_Distributed_Systems_and_Design/APIs/REST_APIs/Load_Shedding_Responses.md>) *(REST APIs)*
+- [Distributed Rate Limiter Design](<../../../07_Distributed_Systems_and_Design/System_Design/High_Level_Design/Distributed_Rate_Limiter_Design.md>) *(High Level Design)*
+- [API Rate Limiting](<../../../07_Distributed_Systems_and_Design/APIs/REST_APIs/API_Rate_Limiting.md>) *(REST APIs)*
 

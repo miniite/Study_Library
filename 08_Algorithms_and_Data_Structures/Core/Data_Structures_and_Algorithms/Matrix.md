@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Advanced Aggregation](<../../../01_Databases_and_SQL/SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
-- [First Last per Group and Running Totals](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/First_Last_per_Group_and_Running_Totals.md>) *(Window Functions)*
+- [Window Function Fundamentals and Performance](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/Window_Function_Fundamentals_and_Performance.md>) *(Window Functions)*
 - [ROW_NUMBER RANK and DENSE_RANK](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/ROW_NUMBER_RANK_and_DENSE_RANK.md>) *(Window Functions)*
-- [Validating Join Cardinality](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Validating_Join_Cardinality.md>) *(SQL Fundamentals)*
-- [Analytical SQL for ML Features](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Analytical_SQL_for_ML_Features.md>) *(SQL Fundamentals)*
-- [Threaded Comments Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Threaded_Comments_Design.md>) *(Low Level Design)*
+- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
+- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
+- [Additive and Allocated Measures](<../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Additive_and_Allocated_Measures.md>) *(Dimensional Modeling)*
+- [Vector Normalization with NumPy](<../../../TOOLS/Python/Python_Language/Vector_Normalization_with_NumPy.md>) *(Python Language)*
 

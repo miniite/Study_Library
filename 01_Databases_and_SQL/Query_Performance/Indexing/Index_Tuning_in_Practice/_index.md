@@ -160,11 +160,11 @@ Walkthrough: In the first case the "work" isn't rows returned, it's pages touche
 ## Related concepts
 
 - [Query Rewrites and Plan Stability](<../../Execution_Plans/Query_Rewrites_and_Plan_Stability.md>) *(Execution Plans)*
-- [Replica Staleness](<../../../SQL_Language/SQL_Fundamentals/Replica_Staleness.md>) *(SQL Fundamentals)*
-- [Filtered Indexes and Plan Cache](<../../../../TOOLS/SQL_Server/T-SQL/Filtered_Indexes_and_Plan_Cache.md>) *(T-SQL)*
-- [MySQL Optimizer Behavior](<../../../../TOOLS/MySQL/MySQL_Platform/MySQL_Optimizer_Behavior.md>) *(MySQL Platform)*
 - [Leftmost Prefix Rule](<../../../SQL_Language/SQL_Fundamentals/Leftmost_Prefix_Rule.md>) *(SQL Fundamentals)*
 - [Index Access Paths](<../../../Database_Internals/DBMS_Concepts/Index_Access_Paths.md>) *(DBMS Concepts)*
+- [Covering Indexes and Index Strategy for Sharding](<../How_Indexes_Are_Used/Covering_Indexes_and_Index_Strategy_for_Sharding.md>) *(Indexing)*
+- [Index Strategy and Governance at Scale](<Index_Strategy_and_Governance_at_Scale.md>) *(Indexing)*
+- [Primary-replica Databases](<../../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Clickstream_Counting_Pipeline/Primary-replica_Databases.md>) *(System Design Core)*
 
 ## References
 

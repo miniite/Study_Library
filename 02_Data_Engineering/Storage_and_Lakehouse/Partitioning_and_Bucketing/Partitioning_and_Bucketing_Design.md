@@ -162,8 +162,8 @@ Verify: `EXPLAIN` should show only matching partitions scanned (e.g., "Partition
 - [Partitioning and Data Skipping in Lakes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/Partitioning_and_Data_Skipping_in_Lakes.md>) *(Indexing)*
 - [Lakehouse Fundamentals](<../Lakehouse/Lakehouse_Fundamentals.md>) *(Lakehouse)*
 - [Partitioning Strategy](<../../../01_Databases_and_SQL/Database_Operations/Partitioning/Partition_Pruning/Partitioning_Strategy.md>) *(Partitioning)*
-- [Hive Partitioning and Bucketing](<../../../TOOLS/Hadoop/Hadoop_Ecosystem/Hive_Partitioning_and_Bucketing.md>) *(Hadoop Ecosystem)*
 - [Partitioning and Partition Pruning](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Partitioning_and_Partition_Pruning.md>) *(DBMS Concepts)*
+- [Bucketed Joins in Spark](<../../Pipelines_and_Integration/Pipeline_Orchestration/Bucketed_Joins_in_Spark.md>) *(Pipeline Orchestration)*
 
 ## References
 

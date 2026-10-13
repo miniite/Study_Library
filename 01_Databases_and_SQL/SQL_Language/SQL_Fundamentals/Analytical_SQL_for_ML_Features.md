@@ -210,12 +210,12 @@ SELECT AVG(x) AS mu, STDDEV_SAMP(x) AS sigma FROM training WHERE split = 'train'
 
 ## Related concepts
 
+- [UDF Performance](<../SQL_Functions/UDF_Performance.md>) *(SQL Functions)*
+- [External Memory Deduplication](<../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/External_Memory_Deduplication.md>) *(Data Structures and Algorithms)*
+- [Classic SQL Query Problems](<../../Database_Internals/DBMS_Concepts/Classic_SQL_Query_Problems.md>) *(DBMS Concepts)*
 - [Reproducible Training Data Versions](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Reproducible_Training_Data_Versions.md>) *(Data Architecture)*
 - [Clock Skew and Time Windows](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Clock_Skew_and_Time_Windows/_index.md>) *(Distributed Systems Core)*
 - [Filtered Indexes and Plan Cache](<../../../TOOLS/SQL_Server/T-SQL/Filtered_Indexes_and_Plan_Cache.md>) *(T-SQL)*
-- [Time-based Windows](<../Window_Functions/Time-based_Windows.md>) *(Window Functions)*
-- [Binary Search](<../../../08_Algorithms_and_Data_Structures/Core/Data_Structures_and_Algorithms/Binary_Search.md>) *(Data Structures and Algorithms)*
-- [UDF Performance](<../SQL_Functions/UDF_Performance.md>) *(SQL Functions)*
 
 ## References
 

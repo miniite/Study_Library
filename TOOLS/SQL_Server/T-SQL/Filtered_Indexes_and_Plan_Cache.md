@@ -114,6 +114,13 @@ Check with the actual plan: look at the *Index Seek* object name and the "Warnin
 - [ ] Find `UnmatchedIndexes` in a plan.
 - [ ] Explain why forced parameterization defeats filtered indexes.
 - [ ] Design a "unique where not deleted" constraint.
+
+<!-- related-deep-dives -->
+
+### 🔗 Related deep dives
+- [Same Syntax, Different Semantics (UNIQUE and NULL)](<Dialects_and_Portability/04_Same_Syntax_Different_Semantics.md>)
+- [Parser, Binder and Error Messages (SET options and plan reuse)](<Dialects_and_Portability/05_Parser_Binder_and_Error_Messages.md>)
+- [Series hub: T-SQL, ANSI SQL and Dialects](<Dialects_and_Portability/_index.md>)
 <!-- explainer:end -->
 
 ## Implementations (tools)

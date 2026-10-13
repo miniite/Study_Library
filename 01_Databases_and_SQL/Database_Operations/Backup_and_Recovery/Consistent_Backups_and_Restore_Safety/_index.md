@@ -164,12 +164,12 @@ In MySQL the same idea uses a full backup plus binary logs replayed with `mysqlb
 
 ## Related concepts
 
-- [Separating Compute and Storage](<../../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Separating_Compute_and_Storage.md>) *(Cloud Fundamentals)*
-- [HA Failover Design](<../../High_Availability/HA_Failover_Design.md>) *(High Availability)*
-- [Read Your Writes with Replicas](<../../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Read_Your_Writes_with_Replicas.md>) *(Cloud Fundamentals)*
 - [Batching Writes](<../../../Database_Internals/DBMS_Concepts/Batching_Writes.md>) *(DBMS Concepts)*
 - [ACID Durability and Consistency](<../../../Transactions_and_Concurrency/ACID_Transactions/ACID_Durability_and_Consistency.md>) *(ACID Transactions)*
 - [LSM Write Path WAL and Compaction](<../../../Database_Internals/Storage_Engines/Tiered_Storage_in_LSM_Engines/LSM_Write_Path_WAL_and_Compaction.md>) *(Storage Engines)*
+- [Zero Downtime Sharding Migrations](<../../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Distributed_Joins_in_MPP_Systems/Zero_Downtime_Sharding_Migrations.md>) *(Distributed Systems Core)*
+- [Read Your Writes with Replicas](<../../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Read_Your_Writes_with_Replicas.md>) *(Cloud Fundamentals)*
+- [Failback After Failover](<../../Replication/Failback_After_Failover/_index.md>) *(Replication)*
 
 ## References
 

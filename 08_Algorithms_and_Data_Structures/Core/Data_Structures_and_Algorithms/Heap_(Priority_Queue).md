@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
-- [Mutability](<../../../TOOLS/Python/Python_Language/Mutability.md>) *(Python Language)*
-- [Time-space Trade-offs](<../Complexity_Analysis/Time-space_Trade-offs.md>) *(Complexity Analysis)*
+- [Cross-service Invalidation Races](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Concurrency_Patterns/Cross-service_Invalidation_Races.md>) *(Concurrency Patterns)*
+- [Lock Granularity Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Compensating_Transactions/Lock_Granularity_Design.md>) *(Low Level Design)*
+- [Two-level Cache Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Compensating_Transactions/Two-level_Cache_Design.md>) *(Low Level Design)*
 - [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
-- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
-- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
+- [NumPy Indexing](<../../../TOOLS/Python/Python_Language/NumPy_Indexing.md>) *(Python Language)*
+- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
 

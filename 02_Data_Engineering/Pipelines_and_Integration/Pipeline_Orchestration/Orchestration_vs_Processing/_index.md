@@ -160,8 +160,8 @@ What to notice: the DAG file contains only coordination (sensor, submit, date pa
 ## Related concepts
 
 - [Airflow Architecture](<../../../../TOOLS/Apache_Airflow/Airflow_Core/Airflow_Architecture.md>) *(Airflow Core)*
-- [DAG Design and Dependencies](<../../../../TOOLS/Apache_Airflow/Airflow_Core/DAG_Design_and_Dependencies.md>) *(Airflow Core)*
 - [Pipeline Design Patterns](<../../Pipeline_Design/Pipeline_Design_Patterns.md>) *(Pipeline Design)*
+- [DAG Design and Dependencies](<../../../../TOOLS/Apache_Airflow/Airflow_Core/DAG_Design_and_Dependencies.md>) *(Airflow Core)*
 
 ## References
 

@@ -167,8 +167,8 @@ Reading it: the 256 GB host runs out of room for the working set in under a year
 - [Database Cost Optimization](<../../Database_Strategy/Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
 - [Database Vendor and Platform Choices](<../../Database_Strategy/Vendor_and_Tooling/Database_Vendor_and_Platform_Choices.md>) *(Vendor and Tooling)*
 - [Org-wide Backpressure](<../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Rate_Limiter_Storage/Org-wide_Backpressure.md>) *(System Design Core)*
-- [Choosing a Database for the Workload](<../../Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
 - [Separating Compute and Storage](<../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Separating_Compute_and_Storage.md>) *(Cloud Fundamentals)*
+- [Choosing a Database for the Workload](<../../Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
 
 ## References
 

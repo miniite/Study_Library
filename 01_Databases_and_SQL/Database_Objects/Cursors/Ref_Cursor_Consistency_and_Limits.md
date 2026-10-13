@@ -184,11 +184,11 @@ SELECT name, is_holdable, is_scrollable, creation_time FROM pg_cursors;
 
 ## Related concepts
 
+- [Stored Procedure Performance and Design](<../Stored_Procedures/Stored_Procedure_Performance_and_Design.md>) *(Stored Procedures)*
+- [PL-SQL in Production](<../../../TOOLS/Oracle/PL-SQL/PL-SQL_in_Production.md>) *(PL-SQL)*
 - [Large Batch Updates](<../../SQL_Language/SQL_Fundamentals/Large_Batch_Updates.md>) *(SQL Fundamentals)*
 - [SKIP LOCKED Job Queues](<../../SQL_Language/SQL_Fundamentals/SKIP_LOCKED_Job_Queues.md>) *(SQL Fundamentals)*
 - [Lock Granularity](<../../Database_Internals/DBMS_Concepts/Lock_Granularity.md>) *(DBMS Concepts)*
-- [Stored Procedure Performance and Design](<../Stored_Procedures/Stored_Procedure_Performance_and_Design.md>) *(Stored Procedures)*
-- [PL-SQL in Production](<../../../TOOLS/Oracle/PL-SQL/PL-SQL_in_Production.md>) *(PL-SQL)*
 
 ## References
 

@@ -151,11 +151,11 @@ Stale statistics case: after a nightly load of 2 million new rows, the histogram
 
 ## Related concepts
 
+- [Advanced Aggregation](<../../SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
+- [Reading EXPLAIN](<../../SQL_Language/SQL_Fundamentals/Reading_EXPLAIN.md>) *(SQL Fundamentals)*
+- [Partitioning and Partition Pruning](<../../Database_Internals/DBMS_Concepts/Partitioning_and_Partition_Pruning.md>) *(DBMS Concepts)*
 - [Filtered Indexes and Plan Cache](<../../../TOOLS/SQL_Server/T-SQL/Filtered_Indexes_and_Plan_Cache.md>) *(T-SQL)*
 - [Clustered Indexes and Indexed Views](<../../../TOOLS/SQL_Server/SQL_Server_Platform/Clustered_Indexes_and_Indexed_Views.md>) *(SQL Server Platform)*
-- [Reading EXPLAIN](<../../SQL_Language/SQL_Fundamentals/Reading_EXPLAIN.md>) *(SQL Fundamentals)*
-- [Advanced Aggregation](<../../SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
-- [Partitioning and Partition Pruning](<../../Database_Internals/DBMS_Concepts/Partitioning_and_Partition_Pruning.md>) *(DBMS Concepts)*
 
 ## References
 

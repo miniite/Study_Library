@@ -187,10 +187,10 @@ Escalation path when analytics hurt production: read replica (cheapest) → colu
 ## Related concepts
 
 - [Database Vendor and Platform Choices](<../Vendor_and_Tooling/Database_Vendor_and_Platform_Choices.md>) *(Vendor and Tooling)*
-- [Database Cost Optimization](<../Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
 - [Rollups vs On-demand Queries](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Rollups_vs_On-demand_Queries.md>) *(Data Architecture)*
 - [Quality Attribute Trade-off Scenarios](<../../../07_Distributed_Systems_and_Design/Software_Architecture/Trade_off_Analysis/Quality_Attribute_Trade-off_Scenarios.md>) *(Trade off Analysis)*
 - [Warehouse as System of Record](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Warehouse_as_System_of_Record.md>) *(Data Architecture)*
+- [Database Cost Optimization](<../Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
 
 ## References
 

@@ -27,12 +27,12 @@ tools: []
 
 ## Related concepts
 
-- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
-- [Recursive CTEs and Materialization](<../../../01_Databases_and_SQL/SQL_Language/CTEs_and_Recursive_Queries/Recursive_CTEs_and_Materialization.md>) *(CTEs and Recursive Queries)*
-- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
-- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
+- [State Pattern](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/State_Pattern.md>) *(Low Level Design)*
 - [Classic LLD Problems](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Classic_LLD_Problems.md>) *(Low Level Design)*
-- [Parsing Semi-structured Logs](<../../../11_AI_and_ML/ML_Foundations/Data_Preprocessing/Parsing_Semi-structured_Logs.md>) *(Data Preprocessing)*
+- [Idempotent Consumer Design](<../../../07_Distributed_Systems_and_Design/System_Design/Low_Level_Design/Idempotent_Consumer_Design/_index.md>) *(Low Level Design)*
+- [Network Devices and Layers](<../../../06_Cloud_Computing/Cloud_Foundations/Networking/Network_Devices_and_Layers.md>) *(Networking)*
+- [Complexity vs Real Performance](<../Complexity_Analysis/Complexity_vs_Real_Performance.md>) *(Complexity Analysis)*
+- [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
 
 ## References
 

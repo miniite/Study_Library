@@ -145,12 +145,12 @@ A stream stores no data: it keeps an *offset* in the table's change history and 
 
 ## Related concepts
 
-- [Lakehouse Fundamentals](<../../../02_Data_Engineering/Storage_and_Lakehouse/Lakehouse/Lakehouse_Fundamentals.md>) *(Lakehouse)*
-- [Schema Drift Handling](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Schema_Drift_Handling.md>) *(Pipeline Orchestration)*
-- [Handling Source Changes and Spikes](<../../../02_Data_Engineering/Pipelines_and_Integration/ETL_ELT/Handling_Source_Changes_and_Spikes.md>) *(ETL ELT)*
 - [Star Schemas and Dimension Keys](<../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Star_Schemas_and_Dimension_Keys.md>) *(Dimensional Modeling)*
 - [Databases and Schemas](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Databases_and_Schemas.md>) *(DBMS Concepts)*
 - [Large Values and TOAST](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Large_Values_and_TOAST.md>) *(SQL Fundamentals)*
+- [File and Table Formats for Features](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/File_and_Table_Formats_for_Features.md>) *(Pipeline Orchestration)*
+- [Micro-partitions vs Manual Partitions](<../../../02_Data_Engineering/Storage_and_Lakehouse/Partitioning_and_Bucketing/Micro-partitions_vs_Manual_Partitions.md>) *(Partitioning and Bucketing)*
+- [Table Format Internals](<../../../02_Data_Engineering/Storage_and_Lakehouse/Table_Formats/Table_Format_Internals.md>) *(Table Formats)*
 
 ## References
 

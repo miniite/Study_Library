@@ -171,8 +171,8 @@ Reading the diagram: crow's foot at `order_line` end of `orders—order_line` me
 
 - [Relationship Modeling](<../../Database_Internals/DBMS_Concepts/Relationship_Modeling.md>) *(DBMS Concepts)*
 - [Star Schemas and Dimension Keys](<../../../02_Data_Engineering/Modeling_and_Warehousing/Dimensional_Modeling/Star_Schemas_and_Dimension_Keys.md>) *(Dimensional Modeling)*
-- [Data Vault](<../../../02_Data_Engineering/Modeling_and_Warehousing/Modeling_Methodologies/Data_Vault.md>) *(Modeling Methodologies)*
 - [Validating Join Cardinality](<../../SQL_Language/SQL_Fundamentals/Validating_Join_Cardinality.md>) *(SQL Fundamentals)*
+- [Data Vault](<../../../02_Data_Engineering/Modeling_and_Warehousing/Modeling_Methodologies/Data_Vault.md>) *(Modeling Methodologies)*
 
 ## References
 

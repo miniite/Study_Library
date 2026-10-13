@@ -161,11 +161,11 @@ Reading the results: SLO attainment is `days meeting target / days`; error-budge
 
 ## Related concepts
 
-- [Governing Real-time Features](<../../../05_Data_Governance_and_Security/Governance/Stewardship/Governing_Real-time_Features.md>) *(Stewardship)*
 - [Data Product SLAs](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Data_Product_SLAs.md>) *(Data Architecture)*
-- [Validation Coverage and Quarantine](<../Validation/Validation_Coverage_and_Quarantine.md>) *(Validation)*
-- [Data Quality Monitoring](<../Data_Observability/Data_Quality_Monitoring.md>) *(Data Observability)*
 - [SLOs and Error Budgets](<../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Availability_Zone_Resilience/SLOs_and_Error_Budgets.md>) *(Cloud Fundamentals)*
+- [Validation Coverage and Quarantine](<../Validation/Validation_Coverage_and_Quarantine.md>) *(Validation)*
+- [Governing Real-time Features](<../../../05_Data_Governance_and_Security/Governance/Stewardship/Governing_Real-time_Features.md>) *(Stewardship)*
+- [Data Quality Monitoring](<../Data_Observability/Data_Quality_Monitoring.md>) *(Data Observability)*
 
 ## References
 

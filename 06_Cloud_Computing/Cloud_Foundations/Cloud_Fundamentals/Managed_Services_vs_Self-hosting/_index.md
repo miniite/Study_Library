@@ -35,8 +35,8 @@ tools: ["AWS"]
 
 ## Related concepts
 
-- [Choosing an Event Backbone](<../../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Mixed_Version_Fleets/Choosing_an_Event_Backbone.md>) *(Distributed Systems Core)*
-- [Serverless Cost Visibility](<../../../Cloud_Cost/FinOps/Serverless_Cost_Visibility/_index.md>) *(FinOps)*
-- [Commitments and Spot Capacity](<../../../Cloud_Cost/FinOps/Serverless_Cost_Visibility/Commitments_and_Spot_Capacity.md>) *(FinOps)*
 - [Hub-and-spoke Cross-cloud Networking](<../../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Multi_Cloud_Data/Hub-and-spoke_Cross-cloud_Networking.md>) *(Multi Cloud Data)*
+- [Serverless Cost Visibility](<../../../Cloud_Cost/FinOps/Serverless_Cost_Visibility/_index.md>) *(FinOps)*
+- [Choosing an Event Backbone](<../../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Mixed_Version_Fleets/Choosing_an_Event_Backbone.md>) *(Distributed Systems Core)*
+- [Commitments and Spot Capacity](<../../../Cloud_Cost/FinOps/Serverless_Cost_Visibility/Commitments_and_Spot_Capacity.md>) *(FinOps)*
 

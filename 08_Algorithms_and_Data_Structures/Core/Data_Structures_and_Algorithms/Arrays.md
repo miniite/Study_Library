@@ -23,10 +23,10 @@ tools: []
 
 ## Related concepts
 
-- [Classic SQL Query Problems](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Classic_SQL_Query_Problems.md>) *(DBMS Concepts)*
-- [Deduplication in SQL](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Deduplication_in_SQL.md>) *(SQL Fundamentals)*
-- [Redundancy and Anomalies](<../../../01_Databases_and_SQL/Database_Design/Normalization/Redundancy_and_Anomalies.md>) *(Normalization)*
 - [Membership and Collection Complexity](<../../../TOOLS/Python/Python_Language/Membership_and_Collection_Complexity.md>) *(Python Language)*
 - [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
 - [NumPy Indexing](<../../../TOOLS/Python/Python_Language/NumPy_Indexing.md>) *(Python Language)*
+- [Classic SQL Query Problems](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Classic_SQL_Query_Problems.md>) *(DBMS Concepts)*
+- [Deduplication in SQL](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Deduplication_in_SQL.md>) *(SQL Fundamentals)*
+- [Redundancy and Anomalies](<../../../01_Databases_and_SQL/Database_Design/Normalization/Redundancy_and_Anomalies.md>) *(Normalization)*
 

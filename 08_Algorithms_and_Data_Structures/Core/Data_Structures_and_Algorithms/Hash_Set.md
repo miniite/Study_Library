@@ -22,8 +22,8 @@ tools: []
 ## Related concepts
 
 - [Classic SQL Query Problems](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Classic_SQL_Query_Problems.md>) *(DBMS Concepts)*
-- [Aggregation Query Practice](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Aggregation_Query_Practice.md>) *(SQL Fundamentals)*
-- [Validating Join Cardinality](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Validating_Join_Cardinality.md>) *(SQL Fundamentals)*
 - [Deduplication in SQL](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Deduplication_in_SQL.md>) *(SQL Fundamentals)*
 - [Redundancy and Anomalies](<../../../01_Databases_and_SQL/Database_Design/Normalization/Redundancy_and_Anomalies.md>) *(Normalization)*
+- [Aggregation Query Practice](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Aggregation_Query_Practice.md>) *(SQL Fundamentals)*
+- [Validating Join Cardinality](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Validating_Join_Cardinality.md>) *(SQL Fundamentals)*
 

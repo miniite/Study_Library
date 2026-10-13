@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Choosing a Database for the Workload](<../../../01_Databases_and_SQL/Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
-- [Rollups vs On-demand Queries](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Rollups_vs_On-demand_Queries.md>) *(Data Architecture)*
-- [Database Cost Optimization](<../../../01_Databases_and_SQL/Database_Strategy/Cost_Optimization/Database_Cost_Optimization.md>) *(Cost Optimization)*
+- [RAG and Vector Costs](<../../../06_Cloud_Computing/Cloud_Cost/FinOps/Serverless_Cost_Visibility/RAG_and_Vector_Costs.md>) *(FinOps)*
 - [Search Relevance](<../../../01_Databases_and_SQL/NoSQL_and_NewSQL/Search_Systems/Search_Index_Internals_and_Mappings/Search_Relevance.md>) *(Search Systems)*
-- [Central vs Domain Feature Modeling](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Central_vs_Domain_Feature_Modeling.md>) *(Data Architecture)*
-- [Mixed Version Fleets](<../../Distributed_Systems/Distributed_Systems_Core/Mixed_Version_Fleets/_index.md>) *(Distributed Systems Core)*
+- [Search Backend Design](<../../System_Design/High_Level_Design/Search_Backend_Design.md>) *(High Level Design)*
+- [Database Access Control and Auditing](<../../../01_Databases_and_SQL/Database_Operations/Security_and_Access/Column-level_Access/Database_Access_Control_and_Auditing.md>) *(Security and Access)*
+- [Multi-tenant Data Platform Isolation](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Layered_Pipelines_Bronze_Silver_Gold/Multi-tenant_Data_Platform_Isolation.md>) *(Data Architecture)*
+- [Org-wide Lineage and PII Tracking](<../../System_Design/System_Design_Core/Read-through_and_Write-behind_Caching/Org-wide_Lineage_and_PII_Tracking.md>) *(System Design Core)*
 

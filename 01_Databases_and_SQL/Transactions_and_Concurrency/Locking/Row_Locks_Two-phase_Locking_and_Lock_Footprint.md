@@ -159,12 +159,12 @@ FROM   sys.dm_db_index_operational_stats(DB_ID(), NULL, NULL, NULL);
 
 ## Related concepts
 
+- [Lock Granularity](<../../Database_Internals/DBMS_Concepts/Lock_Granularity.md>) *(DBMS Concepts)*
 - [Lock Holding and Optimistic Concurrency](<../ACID_Transactions/Lock_Holding_and_Optimistic_Concurrency.md>) *(ACID Transactions)*
-- [SKIP LOCKED Job Queues](<../../SQL_Language/SQL_Fundamentals/SKIP_LOCKED_Job_Queues.md>) *(SQL Fundamentals)*
-- [Cross-service Invalidation Races](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Concurrency_Patterns/Cross-service_Invalidation_Races.md>) *(Concurrency Patterns)*
 - [Deadlock Causes and Diagnosis](<../Deadlocks/Deadlock_Causes_and_Diagnosis.md>) *(Deadlocks)*
 - [Deadlocks in MySQL](<../../../TOOLS/MySQL/MySQL_Platform/Deadlocks_in_MySQL.md>) *(MySQL Platform)*
-- [Lock Granularity](<../../Database_Internals/DBMS_Concepts/Lock_Granularity.md>) *(DBMS Concepts)*
+- [SKIP LOCKED Job Queues](<../../SQL_Language/SQL_Fundamentals/SKIP_LOCKED_Job_Queues.md>) *(SQL Fundamentals)*
+- [Cross-service Invalidation Races](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Concurrency_Patterns/Cross-service_Invalidation_Races.md>) *(Concurrency Patterns)*
 
 ## References
 

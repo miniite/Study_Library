@@ -151,12 +151,12 @@ What to look at after the change: the stage's task-time max should approach the 
 
 ## Related concepts
 
+- [Shuffle Tuning and Broadcast Joins](<../Spark_Core/Shuffle_Tuning_and_Broadcast_Joins.md>) *(Spark Core)*
 - [Bucketed Joins in Spark](<../../../02_Data_Engineering/Pipelines_and_Integration/Pipeline_Orchestration/Bucketed_Joins_in_Spark.md>) *(Pipeline Orchestration)*
+- [Reducing Shuffle in PySpark](<../PySpark/Reducing_Shuffle_in_PySpark.md>) *(PySpark)*
+- [Shuffle Partition Tuning](<../../../03_Big_Data_and_Streaming/Distributed_Processing/Big_Data_Processing/Shuffle_Partition_Tuning.md>) *(Big Data Processing)*
 - [Join Strategies in Spark](<../../../03_Big_Data_and_Streaming/Distributed_Processing/Distributed_Joins/Join_Strategies_in_Spark.md>) *(Distributed Joins)*
 - [Distributed Joins in MPP Systems](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Distributed_Joins_in_MPP_Systems/_index.md>) *(Distributed Systems Core)*
-- [Shuffle Tuning and Broadcast Joins](<../Spark_Core/Shuffle_Tuning_and_Broadcast_Joins.md>) *(Spark Core)*
-- [Shuffle Partition Tuning](<../../../03_Big_Data_and_Streaming/Distributed_Processing/Big_Data_Processing/Shuffle_Partition_Tuning.md>) *(Big Data Processing)*
-- [Reducing Shuffle in PySpark](<../PySpark/Reducing_Shuffle_in_PySpark.md>) *(PySpark)*
 
 ## References
 

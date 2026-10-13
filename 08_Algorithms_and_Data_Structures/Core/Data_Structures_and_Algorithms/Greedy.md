@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
+- [Storing Money](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Storing_Money.md>) *(SQL Fundamentals)*
 - [String Immutability and Performance](<../../../TOOLS/Python/Python_Language/String_Immutability_and_Performance.md>) *(Python Language)*
-- [String Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/String_Functions.md>) *(SQL Functions)*
-- [Cleaning Text and Numeric Fields](<../../../11_AI_and_ML/ML_Foundations/Data_Preprocessing/Cleaning_Text_and_Numeric_Fields.md>) *(Data Preprocessing)*
-- [Retention Queries](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Retention_Queries.md>) *(SQL Fundamentals)*
-- [Time-based Windows](<../../../01_Databases_and_SQL/SQL_Language/Window_Functions/Time-based_Windows.md>) *(Window Functions)*
-- [Validating Loads and Deduplication](<../../../02_Data_Engineering/Data_Quality/Validation/Validating_Loads_and_Deduplication.md>) *(Validation)*
+- [Numeric Functions](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/Numeric_Functions.md>) *(SQL Functions)*
+- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
+- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
+- [Advanced Aggregation](<../../../01_Databases_and_SQL/SQL_Language/Aggregation/Advanced_Aggregation.md>) *(Aggregation)*
 

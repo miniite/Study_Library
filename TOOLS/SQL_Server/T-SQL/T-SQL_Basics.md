@@ -132,6 +132,15 @@ END CATCH;
 - [ ] Predict the result of `NULL = NULL`, `NULL IS NULL`, `NOT IN (1, NULL)`.
 - [ ] Rewrite `WHERE YEAR(d)=2025` as a sargable predicate.
 - [ ] Explain `XACT_ABORT` and `NOCOUNT`.
+
+<!-- related-deep-dives -->
+
+### 🔗 Related deep dives
+- [Standard, Dialect and Engine](<Dialects_and_Portability/01_Standard_Dialect_Engine.md>)
+- [ANSI Core vs T-SQL Extensions](<Dialects_and_Portability/02_ANSI_Core_vs_T-SQL_Extensions.md>)
+- [Same Syntax, Different Semantics](<Dialects_and_Portability/04_Same_Syntax_Different_Semantics.md>)
+- [Parser, Binder and Error Messages](<Dialects_and_Portability/05_Parser_Binder_and_Error_Messages.md>)
+- [Series hub: T-SQL, ANSI SQL and Dialects](<Dialects_and_Portability/_index.md>)
 <!-- explainer:end -->
 
 ## Implementations (tools)
@@ -154,9 +163,9 @@ END CATCH;
 - [MERGE and Upserts](<../SQL_Server_Platform/MERGE_and_Upserts.md>) *(SQL Server Platform)*
 - [CTEs in SQL Server](<../SQL_Server_Platform/CTEs_in_SQL_Server.md>) *(SQL Server Platform)*
 - [Dynamic SQL](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/Dynamic_SQL.md>) *(DBMS Concepts)*
-- [Date and Time Types](<../SQL_Server_Platform/Date_and_Time_Types.md>) *(SQL Server Platform)*
-- [WHERE vs HAVING](<../../../01_Databases_and_SQL/Database_Internals/DBMS_Concepts/WHERE_vs_HAVING.md>) *(DBMS Concepts)*
 - [Scalar Subqueries](<../../../01_Databases_and_SQL/SQL_Language/SQL_Fundamentals/Scalar_Subqueries.md>) *(SQL Fundamentals)*
+- [UDF Performance](<../../../01_Databases_and_SQL/SQL_Language/SQL_Functions/UDF_Performance.md>) *(SQL Functions)*
+- [Date and Time Types](<../SQL_Server_Platform/Date_and_Time_Types.md>) *(SQL Server Platform)*
 
 ## References
 

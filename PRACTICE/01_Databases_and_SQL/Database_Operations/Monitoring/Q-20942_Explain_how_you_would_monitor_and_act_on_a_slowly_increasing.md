@@ -68,7 +68,7 @@ Based on our analysis, we set up alerts when the average row-fetch time exceeds 
 PYTHON
 def send_alert(message):
     # Example alert function using Slack API
-    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>"
+    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>"
     data = {"text": message}
     requests.post(webhook_url, json=data)
 Step 4: Implementing Failures and Retries
@@ -126,7 +126,7 @@ def alert_if_necessary(avg_time):
         send_alert(f"Row fetch time for critical_table is {avg_time:.2f} seconds, exceeding the threshold of {threshold} seconds.")
 
 def send_alert(message):
-    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<BOT_ID>/<SECRET>"
+    webhook_url = "https://hooks.slack.com/services/<TEAM_ID>/<CHANNEL_ID>/<TOKEN>"
     data = {"text": message}
     requests.post(webhook_url, json=data)
 

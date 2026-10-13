@@ -156,9 +156,9 @@ Re-running for the same date yields the same table state; backfilling a month is
 
 ## Related concepts
 
-- [Validation Coverage and Quarantine](<../../Data_Quality/Validation/Validation_Coverage_and_Quarantine.md>) *(Validation)*
-- [File and Table Formats for Features](<../Pipeline_Orchestration/File_and_Table_Formats_for_Features.md>) *(Pipeline Orchestration)*
 - [Graceful Degradation in Streaming](<../../../03_Big_Data_and_Streaming/Streaming_and_Messaging/Streaming_Architecture/Provisional_and_Final_Results/Graceful_Degradation_in_Streaming.md>) *(Streaming Architecture)*
+- [File and Table Formats for Features](<../Pipeline_Orchestration/File_and_Table_Formats_for_Features.md>) *(Pipeline Orchestration)*
+- [Validation Coverage and Quarantine](<../../Data_Quality/Validation/Validation_Coverage_and_Quarantine.md>) *(Validation)*
 
 ## References
 

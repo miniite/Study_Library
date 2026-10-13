@@ -151,6 +151,14 @@ Reading the plan: with a large `@table`, the actual-vs-estimated row count on th
 - [ ] Choose between `#temp`, `@table`, TVP and CTE for four scenarios.
 - [ ] Name three ways to reduce tempdb allocation contention.
 - [ ] List what disables temp-table caching.
+
+<!-- related-deep-dives -->
+
+### 🔗 Related deep dives
+- [Syntax Translation Cookbook (temp tables and variables)](<Dialects_and_Portability/03_Syntax_Translation_Cookbook.md>)
+- [Procedural Code: T-SQL vs PL/SQL vs PL/pgSQL](<Dialects_and_Portability/07_Procedural_Code_T-SQL_vs_PLSQL_vs_PLpgSQL.md>)
+- [T-SQL Across the Microsoft Family (temp tables on Synapse/Fabric)](<Dialects_and_Portability/08_T-SQL_Across_the_Microsoft_Family.md>)
+- [Series hub: T-SQL, ANSI SQL and Dialects](<Dialects_and_Portability/_index.md>)
 <!-- explainer:end -->
 
 ## Implementations (tools)

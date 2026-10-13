@@ -173,10 +173,10 @@ Verify with the plan: look for "Partitions accessed", "Segments skipped" (column
 
 - [OLTP vs Star Schema Performance](<../Dimensional_Modeling/OLTP_vs_Star_Schema_Performance.md>) *(Dimensional Modeling)*
 - [Index Tuning in Practice](<../../../01_Databases_and_SQL/Query_Performance/Indexing/Index_Tuning_in_Practice/_index.md>) *(Indexing)*
-- [Random Keys and Index Locality](<../../../01_Databases_and_SQL/Query_Performance/Indexing/Random_Keys_and_Index_Locality.md>) *(Indexing)*
-- [Primary and Unique Keys](<../../../01_Databases_and_SQL/Database_Design/Constraints_and_Keys/Primary_and_Unique_Keys.md>) *(Constraints and Keys)*
 - [Rollups vs On-demand Queries](<../../../04_Data_Architecture_and_Strategy/Architecture_Patterns/Data_Architecture/Tiered_Lake_Storage/Rollups_vs_On-demand_Queries.md>) *(Data Architecture)*
 - [Choosing a Database for the Workload](<../../../01_Databases_and_SQL/Database_Strategy/Database_Selection/Choosing_a_Database_for_the_Workload.md>) *(Database Selection)*
+- [Random Keys and Index Locality](<../../../01_Databases_and_SQL/Query_Performance/Indexing/Random_Keys_and_Index_Locality.md>) *(Indexing)*
+- [Primary and Unique Keys](<../../../01_Databases_and_SQL/Database_Design/Constraints_and_Keys/Primary_and_Unique_Keys.md>) *(Constraints and Keys)*
 
 ## References
 

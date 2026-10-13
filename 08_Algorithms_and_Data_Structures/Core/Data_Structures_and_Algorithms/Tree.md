@@ -27,10 +27,10 @@ tools: []
 
 ## Related concepts
 
-- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
+- [B-tree and BRIN Indexes](<../../../01_Databases_and_SQL/Query_Performance/Indexing/B-tree_and_BRIN_Indexes.md>) *(Indexing)*
+- [Top-k Complexity](<../Complexity_Analysis/Top-k_Complexity.md>) *(Complexity Analysis)*
+- [Time-space Trade-offs](<../Complexity_Analysis/Time-space_Trade-offs.md>) *(Complexity Analysis)*
 - [Recursive CTEs and Materialization](<../../../01_Databases_and_SQL/SQL_Language/CTEs_and_Recursive_Queries/Recursive_CTEs_and_Materialization.md>) *(CTEs and Recursive Queries)*
-- [Set Operation Complexity](<../Complexity_Analysis/Set_Operation_Complexity.md>) *(Complexity Analysis)*
+- [Recursive vs Iterative Space](<../Complexity_Analysis/Recursive_vs_Iterative_Space.md>) *(Complexity Analysis)*
 - [Parsing Semi-structured Logs](<../../../11_AI_and_ML/ML_Foundations/Data_Preprocessing/Parsing_Semi-structured_Logs.md>) *(Data Preprocessing)*
-- [LINQ and Collections](<../../../TOOLS/DotNet/DotNet_Platform/LINQ_and_Collections.md>) *(DotNet Platform)*
-- [Compressed File Handling](<../../../TOOLS/Python/Python_Language/Compressed_File_Handling.md>) *(Python Language)*
 

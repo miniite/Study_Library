@@ -170,8 +170,8 @@ Define blocking vs deadlock, walk the formation and victim choice, list patterns
 ## Related concepts
 
 - [Row Locks Two-phase Locking and Lock Footprint](<../Locking/Row_Locks_Two-phase_Locking_and_Lock_Footprint.md>) *(Locking)*
-- [Lock Holding and Optimistic Concurrency](<../ACID_Transactions/Lock_Holding_and_Optimistic_Concurrency.md>) *(ACID Transactions)*
 - [SKIP LOCKED Job Queues](<../../SQL_Language/SQL_Fundamentals/SKIP_LOCKED_Job_Queues.md>) *(SQL Fundamentals)*
+- [Lock Holding and Optimistic Concurrency](<../ACID_Transactions/Lock_Holding_and_Optimistic_Concurrency.md>) *(ACID Transactions)*
 
 ## References
 

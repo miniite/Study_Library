@@ -163,9 +163,9 @@ Now the failure the design must survive: the *standby* dies. With a single synch
 - [Zero Downtime Sharding Migrations](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Distributed_Joins_in_MPP_Systems/Zero_Downtime_Sharding_Migrations.md>) *(Distributed Systems Core)*
 - [Quorums and Consensus](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Mixed_Version_Fleets/Quorums_and_Consensus.md>) *(Distributed Systems Core)*
 - [Replication Topologies and Lag](<../Replication/Failback_After_Failover/Replication_Topologies_and_Lag.md>) *(Replication)*
-- [Availability Zone Resilience](<../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Availability_Zone_Resilience/_index.md>) *(Cloud Fundamentals)*
-- [Multi-tenant Migrations](<../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Read-through_and_Write-behind_Caching/Multi-tenant_Migrations.md>) *(System Design Core)*
 - [Slow Dependencies and Load Shedding](<../../../07_Distributed_Systems_and_Design/Distributed_Systems/Distributed_Systems_Core/Deadline_Propagation/Slow_Dependencies_and_Load_Shedding.md>) *(Distributed Systems Core)*
+- [Read Your Writes with Replicas](<../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Read_Your_Writes_with_Replicas.md>) *(Cloud Fundamentals)*
+- [Availability Zone Resilience](<../../../06_Cloud_Computing/Cloud_Foundations/Cloud_Fundamentals/Availability_Zone_Resilience/_index.md>) *(Cloud Fundamentals)*
 
 ## References
 

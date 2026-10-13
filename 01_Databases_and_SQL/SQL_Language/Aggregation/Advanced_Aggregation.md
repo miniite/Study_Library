@@ -220,9 +220,9 @@ FROM (
 - [Partitioning and Partition Pruning](<../../Database_Internals/DBMS_Concepts/Partitioning_and_Partition_Pruning.md>) *(DBMS Concepts)*
 - [Statistics and Sargability](<../../Query_Performance/Execution_Plans/Statistics_and_Sargability.md>) *(Execution Plans)*
 - [Large Values and TOAST](<../SQL_Fundamentals/Large_Values_and_TOAST.md>) *(SQL Fundamentals)*
-- [Classic SQL Query Problems](<../../Database_Internals/DBMS_Concepts/Classic_SQL_Query_Problems.md>) *(DBMS Concepts)*
-- [UDF Performance](<../SQL_Functions/UDF_Performance.md>) *(SQL Functions)*
-- [First Last per Group and Running Totals](<../Window_Functions/First_Last_per_Group_and_Running_Totals.md>) *(Window Functions)*
+- [Aggregation Query Practice](<../SQL_Fundamentals/Aggregation_Query_Practice.md>) *(SQL Fundamentals)*
+- [Clickstream Counting Pipeline](<../../../07_Distributed_Systems_and_Design/System_Design/System_Design_Core/Clickstream_Counting_Pipeline/_index.md>) *(System Design Core)*
+- [Conditional Aggregation](<../SQL_Fundamentals/Conditional_Aggregation.md>) *(SQL Fundamentals)*
 
 ## References
 
